@@ -1,0 +1,20 @@
+{
+  "name": "idiom-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches English idioms from Wiktionary and generates structured JSON",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts",
+    "build": "tsc",
+    "run": "node dist/index.js"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "idiom-of-the-day",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Learn one new idiom per day with quizzes",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "main": "index.js",
+  "author": "shikhin",
+  "license": "MIT"
+}
