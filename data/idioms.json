@@ -1,0 +1,407 @@
+[
+  {
+    "id": "idiom_001",
+    "idiom": "break the ice",
+    "definition": "To overcome initial social awkwardness; to relieve tension and get conversation going.",
+    "examples": [
+      { "sentence": "He told a joke to break the ice at the meeting." },
+      { "sentence": "A fun activity can help break the ice on the first day of class." }
+    ],
+    "wrongExamples": [
+      "Be careful not to break the ice when you walk across the frozen lake.",
+      "He used a hammer to break the ice in the cooler.",
+      "She had to break the ice to get water from the well in winter."
+    ]
+  },
+  {
+    "id": "idiom_002",
+    "idiom": "hit the nail on the head",
+    "definition": "To describe a situation or problem very accurately.",
+    "examples": [
+      { "sentence": "When she said the project failed because of poor planning, she hit the nail on the head." }
+    ],
+    "wrongExamples": [
+      "He carefully hit the nail on the head while building the fence.",
+      "Make sure to hit the nail on the head to avoid bending it.",
+      "The carpenter hit the nail on the head with his hammer."
+    ]
+  },
+  {
+    "id": "idiom_003",
+    "idiom": "once in a blue moon",
+    "definition": "Very rarely; something that does not happen often.",
+    "examples": [
+      { "sentence": "We only get together once in a blue moon these days." }
+    ],
+    "wrongExamples": [
+      "The astronomer said we can see a blue moon once in a blue moon.",
+      "Once in a blue moon, the moon actually appears blue in the sky.",
+      "The lunar eclipse happens once in a blue moon according to the calendar."
+    ]
+  },
+  {
+    "id": "idiom_004",
+    "idiom": "spill the beans",
+    "definition": "To reveal a secret or disclose something confidential.",
+    "examples": [
+      { "sentence": "Don't spill the beans about the surprise party!" }
+    ],
+    "wrongExamples": [
+      "Be careful not to spill the beans when you pour them into the pot.",
+      "I accidentally spilled the beans all over the kitchen floor.",
+      "She spilled the beans while cooking dinner and had to clean up the mess."
+    ]
+  },
+  {
+    "id": "idiom_005",
+    "idiom": "under the weather",
+    "definition": "Feeling ill or slightly sick.",
+    "examples": [
+      { "sentence": "I stayed home today because I was feeling under the weather." }
+    ],
+    "wrongExamples": [
+      "The picnic table was placed under the weather vane for shade.",
+      "We stored the equipment under the weather-resistant tarp.",
+      "The plants grew better under the weather conditions this year."
+    ]
+  },
+  {
+    "id": "idiom_006",
+    "idiom": "bite the bullet",
+    "definition": "To face a difficult or unpleasant situation with courage.",
+    "examples": [
+      { "sentence": "I hate going to the dentist, but I just need to bite the bullet and make an appointment." }
+    ],
+    "wrongExamples": [
+      "The soldier had to bite the bullet because there was no anesthesia available.",
+      "In the old western movies, they would bite the bullet during surgery.",
+      "He bit the bullet to test if it was real metal."
+    ]
+  },
+  {
+    "id": "idiom_007",
+    "idiom": "cost an arm and a leg",
+    "definition": "To be extremely expensive.",
+    "examples": [
+      { "sentence": "That new car costs an arm and a leg!", "usedIdiom": "costs an arm and a leg" },
+      { "sentence": "Designer handbags cost an arm and a leg these days." }
+    ],
+    "wrongExamples": [
+      "The medical procedure cost him an arm and a leg that had to be amputated.",
+      "The accident cost an arm and a leg in terms of his injuries.",
+      "Insurance will cover the treatment that cost an arm and a leg to repair."
+    ]
+  },
+  {
+    "id": "idiom_008",
+    "idiom": "let the cat out of the bag",
+    "definition": "To accidentally reveal a secret.",
+    "examples": [
+      { "sentence": "She let the cat out of the bag about the engagement before the official announcement." }
+    ],
+    "wrongExamples": [
+      "When we arrived home, we let the cat out of the bag so it could roam freely.",
+      "The veterinarian let the cat out of the bag after the checkup.",
+      "Please let the cat out of the bag carefully so it doesn't escape outside."
+    ]
+  },
+  {
+    "id": "idiom_009",
+    "idiom": "a piece of cake",
+    "definition": "Something very easy to do.",
+    "examples": [
+      { "sentence": "The exam was a piece of cake; I finished in 20 minutes." },
+      { "sentence": "Don't worry, assembling this furniture is a piece of cake." }
+    ],
+    "wrongExamples": [
+      "I brought a piece of cake to share at the party.",
+      "Would you like a piece of cake with your coffee?",
+      "She saved a piece of cake for her sister who came home late."
+    ]
+  },
+  {
+    "id": "idiom_010",
+    "idiom": "when pigs fly",
+    "definition": "Something that will never happen.",
+    "examples": [
+      { "sentence": "He'll clean his room when pigs fly." },
+      { "sentence": "Sure, I'll lend you money again—when pigs fly!" }
+    ],
+    "wrongExamples": [
+      "According to this fantasy book, magical things happen when pigs fly.",
+      "The children's story describes a world when pigs fly through the clouds.",
+      "When pigs fly overhead, the farmers know it's feeding time at the farm."
+    ]
+  },
+  {
+    "id": "idiom_011",
+    "idiom": "the ball is in your court",
+    "definition": "It is now your turn to take action or make a decision.",
+    "examples": [
+      { "sentence": "I've done all I can—the ball is in your court now." }
+    ],
+    "wrongExamples": [
+      "During the tennis match, the ball is in your court so you need to return it.",
+      "The ball is in your court, so pick it up and serve.",
+      "Make sure the ball is in your court before the other team scores."
+    ]
+  },
+  {
+    "id": "idiom_012",
+    "idiom": "burn the midnight oil",
+    "definition": "To work late into the night.",
+    "examples": [
+      { "sentence": "She's been burning the midnight oil to finish her thesis.", "usedIdiom": "burning the midnight oil" }
+    ],
+    "wrongExamples": [
+      "In the old days, people would literally burn the midnight oil in their lamps.",
+      "The historical reenactment showed how they used to burn the midnight oil for light.",
+      "Before electricity, families would burn the midnight oil to see at night."
+    ]
+  },
+  {
+    "id": "idiom_013",
+    "idiom": "cut to the chase",
+    "definition": "To get to the point without wasting time.",
+    "examples": [
+      { "sentence": "Let's cut to the chase—what do you really want?" },
+      { "sentence": "I don't have much time, so please cut to the chase." }
+    ],
+    "wrongExamples": [
+      "The film editor decided to cut to the chase scene to make it more exciting.",
+      "During editing, they cut to the chase sequence in the action movie.",
+      "The director wanted to cut to the chase scene earlier in the film."
+    ]
+  },
+  {
+    "id": "idiom_014",
+    "idiom": "hit the sack",
+    "definition": "To go to bed or go to sleep.",
+    "examples": [
+      { "sentence": "I'm exhausted. I think I'll hit the sack early tonight." }
+    ],
+    "wrongExamples": [
+      "The boxer practiced how to hit the sack during training.",
+      "In the gym, you need to hit the sack with proper form.",
+      "He hit the sack repeatedly to improve his punching technique."
+    ]
+  },
+  {
+    "id": "idiom_015",
+    "idiom": "barking up the wrong tree",
+    "definition": "To pursue a mistaken or misguided course of action.",
+    "examples": [
+      { "sentence": "If you think I took your keys, you're barking up the wrong tree." }
+    ],
+    "wrongExamples": [
+      "The dog was literally barking up the wrong tree—the squirrel was in the oak, not the pine.",
+      "My puppy keeps barking up the wrong tree when chasing animals.",
+      "The hunting dog was barking up the wrong tree during the expedition."
+    ]
+  },
+  {
+    "id": "idiom_016",
+    "idiom": "beat around the bush",
+    "definition": "To avoid talking about what is important; to delay or be indirect.",
+    "examples": [
+      { "sentence": "Stop beating around the bush and tell me what happened.", "usedIdiom": "beating around the bush" }
+    ],
+    "wrongExamples": [
+      "The hunters would beat around the bush to flush out the birds.",
+      "We had to beat around the bush to find where the ball landed.",
+      "Gardeners often beat around the bush to scare away pests."
+    ]
+  },
+  {
+    "id": "idiom_017",
+    "idiom": "blessing in disguise",
+    "definition": "Something that seems bad at first but turns out to be good.",
+    "examples": [
+      { "sentence": "Losing that job was a blessing in disguise—I found a much better one." }
+    ],
+    "wrongExamples": [
+      "The gift was a blessing in disguise because it was wrapped in plain paper.",
+      "She received a blessing in disguise at the costume party from the priest.",
+      "The mysterious package turned out to be a blessing in disguise—literally a disguised present."
+    ]
+  },
+  {
+    "id": "idiom_018",
+    "idiom": "get out of hand",
+    "definition": "To become out of control.",
+    "wrongDefinitions": [
+      "To physically leave someone's hand.",
+      "To successfully manage a situation.",
+      "To hold something firmly in your hand."
+    ],
+    "examples": [
+      { "sentence": "The party got out of hand when more people showed up than expected.", "usedIdiom": "got out of hand" }
+    ],
+    "wrongExamples": [
+      "The bird managed to get out of hand and flew away.",
+      "Try not to let the slippery fish get out of hand when cleaning it.",
+      "The ball got out of hand and rolled down the street."
+    ]
+  },
+  {
+    "id": "idiom_019",
+    "idiom": "on thin ice",
+    "definition": "In a risky or precarious situation.",
+    "examples": [
+      { "sentence": "You're on thin ice with your boss after missing that deadline." }
+    ],
+    "wrongExamples": [
+      "The ice skaters performed carefully because they were on thin ice.",
+      "Don't walk on thin ice—it might crack under your weight.",
+      "The frozen pond had people on thin ice that could break at any moment."
+    ]
+  },
+  {
+    "id": "idiom_020",
+    "idiom": "throw in the towel",
+    "definition": "To give up or admit defeat.",
+    "examples": [
+      { "sentence": "After three failed attempts, he decided to throw in the towel." }
+    ],
+    "wrongExamples": [
+      "After the shower, please throw in the towel with the laundry.",
+      "He threw in the towel to help clean up the spill on the floor.",
+      "She threw in the towel as an extra gift with the bathroom set."
+    ]
+  },
+  {
+    "id": "idiom_021",
+    "idiom": "a dime a dozen",
+    "definition": "Something very common and not very valuable.",
+    "examples": [
+      { "sentence": "Smartphone apps are a dime a dozen these days." }
+    ],
+    "wrongExamples": [
+      "The candy store sells gumballs at a dime a dozen.",
+      "You can buy these pencils at a dime a dozen at the school supply sale.",
+      "The farmer's market offered eggs at a dime a dozen today."
+    ]
+  },
+  {
+    "id": "idiom_022",
+    "idiom": "speak of the devil",
+    "definition": "Said when someone you were just talking about arrives.",
+    "examples": [
+      { "sentence": "We were just discussing John, and speak of the devil, here he comes!" }
+    ],
+    "wrongExamples": [
+      "In the horror movie, they would speak of the devil to summon evil spirits.",
+      "The ritual required them to speak of the devil at midnight.",
+      "Never speak of the devil in a haunted house, according to superstition."
+    ]
+  },
+  {
+    "id": "idiom_023",
+    "idiom": "the last straw",
+    "definition": "The final problem in a series that makes a situation unbearable.",
+    "examples": [
+      { "sentence": "Coming home to find the house a mess was the last straw." }
+    ],
+    "wrongExamples": [
+      "I used the last straw from the package for my drink.",
+      "The last straw in the box was bent, so I threw it away.",
+      "She grabbed the last straw from the dispenser at the restaurant."
+    ]
+  },
+  {
+    "id": "idiom_024",
+    "idiom": "add insult to injury",
+    "definition": "To make a bad situation worse.",
+    "wrongDefinitions": [
+      "To make a good situation better.",
+      "To physically harm someone further.",
+      "To apologize after causing harm."
+    ],
+    "examples": [
+      { "sentence": "To add insult to injury, it started raining after my car broke down." }
+    ],
+    "wrongExamples": [
+      "The bully would add insult to injury by calling names after pushing someone.",
+      "In the argument, he decided to add insult to injury by bringing up old fights.",
+      "She would add insult to injury during fights, which wasn't helpful."
+    ]
+  },
+  {
+    "id": "idiom_025",
+    "idiom": "actions speak louder than words",
+    "definition": "What you do is more important than what you say.",
+    "examples": [
+      { "sentence": "He promises to help, but actions speak louder than words." }
+    ],
+    "wrongExamples": [
+      "In the noisy room, actions speak louder than words because you can't hear anything.",
+      "During the silent film, actions speak louder than words since there's no dialogue.",
+      "With the broken microphone, actions speak louder than words at the presentation."
+    ]
+  },
+  {
+    "id": "idiom_026",
+    "idiom": "the best of both worlds",
+    "definition": "A situation where you can enjoy two different opportunities at once.",
+    "examples": [
+      { "sentence": "Working from home gives me the best of both worlds—flexibility and career growth." }
+    ],
+    "wrongExamples": [
+      "The travelers enjoyed the best of both worlds by visiting Europe and Asia.",
+      "The restaurant offers the best of both worlds with locations in two countries.",
+      "She got the best of both worlds by inheriting property in two different continents."
+    ]
+  },
+  {
+    "id": "idiom_027",
+    "idiom": "better late than never",
+    "definition": "It's better to do something late than not do it at all.",
+    "examples": [
+      { "sentence": "You finally finished the project! Well, better late than never." }
+    ],
+    "wrongExamples": [
+      "The late train is better late than never arriving at all.",
+      "I always say better late than never when my delayed flight finally lands.",
+      "The package was better late than never after being lost in shipping."
+    ]
+  },
+  {
+    "id": "idiom_028",
+    "idiom": "by the skin of your teeth",
+    "definition": "To barely succeed or escape something.",
+    "examples": [
+      { "sentence": "I passed the exam by the skin of my teeth.", "usedIdiom": "by the skin of my teeth" }
+    ],
+    "wrongExamples": [
+      "The dentist explained that plaque forms by the skin of your teeth.",
+      "Cavities develop by the skin of your teeth if you don't brush properly.",
+      "Tooth enamel protects by the skin of your teeth from damage."
+    ]
+  },
+  {
+    "id": "idiom_029",
+    "idiom": "don't cry over spilled milk",
+    "definition": "Don't waste time worrying about things that have already happened.",
+    "examples": [
+      { "sentence": "Yes, you made a mistake, but don't cry over spilled milk." }
+    ],
+    "wrongExamples": [
+      "The toddler started to cry, but I said don't cry over spilled milk—we can clean it up.",
+      "When the glass tipped over, I told the kids don't cry over spilled milk, just grab a towel.",
+      "She began to cry over spilled milk on the kitchen floor, but it was easily cleaned."
+    ]
+  },
+  {
+    "id": "idiom_030",
+    "idiom": "every cloud has a silver lining",
+    "definition": "There is something good in every bad situation.",
+    "examples": [
+      { "sentence": "I know you're disappointed, but every cloud has a silver lining." }
+    ],
+    "wrongExamples": [
+      "The meteorologist explained that every cloud has a silver lining due to light reflection.",
+      "In the sunset, every cloud has a silver lining from the sun's rays.",
+      "During the storm, every cloud has a silver lining visible through the darkness."
+    ]
+  }
+]
