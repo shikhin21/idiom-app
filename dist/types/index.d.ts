@@ -7,6 +7,8 @@ export interface Idiom {
         usedIdiom?: string;
     }>;
     wrongExamples: string[];
+    wrongDefinitions: string[];
+    context?: string;
 }
 export interface IdiomMeta {
     idiomId: string;
@@ -80,6 +82,8 @@ export interface PersistedState {
     daily: Record<string, DailyLog>;
     quizInProgress: QuizState | null;
     nextIdiomIndex: number;
+    currentChunkIndex: number;
+    currentChunkOffset: number;
     version: number;
 }
 export interface AppState {

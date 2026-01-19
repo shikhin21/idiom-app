@@ -1,27 +1,29 @@
 import type { Idiom, IdiomMeta, DailyLog, QuizQuestion, QuizResult, QuestionFeedback, AppState } from '../types/index.js';
+import { ChunkManager } from './chunkManager.js';
 /**
  * Main application store
  * Encapsulates all state management and business logic
  */
 export declare class IdiomStore {
     private state;
-    private idioms;
+    private chunkManager;
     private listeners;
-    constructor();
-    initialize(idioms: Idiom[]): void;
+    constructor(chunkManager: ChunkManager);
+    initialize(): Promise<void>;
     subscribe(listener: () => void): () => void;
     private notifyListeners;
     private persist;
-    getAppState(): AppState;
-    getIdiomById(id: string): Idiom | null;
+    getAppState(): Promise<AppState>;
+    getIdiomById(id: string): Promise<Idiom | null>;
+    getIdiomsByIds(ids: string[]): Promise<Idiom[]>;
     getIdiomMeta(id: string): IdiomMeta | null;
     getDailyLog(date: string): DailyLog;
     getSeenIdiomIds(): string[];
     getLearnedIdiomIds(): string[];
-    getLearnedIdiomsWithMeta(): Array<{
+    getLearnedIdiomsWithMeta(): Promise<Array<{
         idiom: Idiom;
         meta: IdiomMeta;
-    }>;
+    }>>;
     hasQuizInProgress(): boolean;
     private ensureTodayHasIdiom;
     private assignNewIdiomForDate;
@@ -30,14 +32,14 @@ export declare class IdiomStore {
      * Returns { needsQuiz: true } if quiz required first
      * Returns { idiom: Idiom } if immediately available
      */
-    requestNextIdiom(): {
+    requestNextIdiom(): Promise<{
         needsQuiz: boolean;
         idiom: Idiom | null;
-    };
-    startPracticeQuiz(): void;
+    }>;
+    startPracticeQuiz(): Promise<void>;
     private startQuiz;
     hasUnseenIdioms(): boolean;
-    buildQuizQuestions(idiomIds: string[]): QuizQuestion[];
+    buildQuizQuestions(idiomIds: string[]): Promise<QuizQuestion[]>;
     private generateStandardMCQ;
     private generateReverseMCQ;
     private generateClozeQuestion;
@@ -48,11 +50,10 @@ export declare class IdiomStore {
     private validateAnswer;
     advanceToNextQuestion(): void;
     getQuestionFeedback(questionIndex: number): QuestionFeedback | null;
-    completeQuiz(): QuizResult & {
+    completeQuiz(): Promise<QuizResult & {
         newIdiom: Idiom | null;
-    };
+    }>;
     cancelQuiz(): void;
     reset(): void;
 }
-export declare const store: IdiomStore;
 //# sourceMappingURL=index.d.ts.map

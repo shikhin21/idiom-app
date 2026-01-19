@@ -1,5 +1,6 @@
 import { loadState, saveState, getDefaultState } from './storage.js';
 import { getTodayDateString, shuffleArray, escapeRegExp } from '../utils/helpers.js';
+import { TOTAL_IDIOMS, getGlobalIndex } from '../config/chunks.js';
 const PASS_THRESHOLD = 0.7;
 const MIN_QUIZ_SIZE = 3;
 const MAX_QUIZ_SIZE = 5;
@@ -8,17 +9,18 @@ const MAX_QUIZ_SIZE = 5;
  * Encapsulates all state management and business logic
  */
 export class IdiomStore {
-    constructor() {
-        this.idioms = [];
+    constructor(chunkManager) {
         this.listeners = new Set();
         this.state = loadState();
+        this.chunkManager = chunkManager;
     }
     // ─────────────────────────────────────────────
     // Initialization
     // ─────────────────────────────────────────────
-    initialize(idioms) {
-        this.idioms = idioms;
-        this.ensureTodayHasIdiom();
+    async initialize() {
+        // Load first chunk to ensure we have data
+        await this.chunkManager.loadChunk(0);
+        await this.ensureTodayHasIdiom();
         this.notifyListeners();
     }
     // ─────────────────────────────────────────────
@@ -38,12 +40,10 @@ export class IdiomStore {
     // ─────────────────────────────────────────────
     // Getters
     // ─────────────────────────────────────────────
-    getAppState() {
+    async getAppState() {
         const today = getTodayDateString();
         const dailyLog = this.getDailyLog(today);
-        const todayIdioms = dailyLog.seen
-            .map((id) => this.getIdiomById(id))
-            .filter((i) => i !== null);
+        const todayIdioms = await this.getIdiomsByIds(dailyLog.seen);
         const learnedIdiomIds = this.getLearnedIdiomIds();
         const seenIdiomIds = Object.keys(this.state.idiomMeta);
         // Quiz is required if user has learned idioms AND tries to get next
@@ -57,14 +57,14 @@ export class IdiomStore {
             }
             else {
                 // Backward compatibility: generate and store questions if missing
-                quizQuestions = this.buildQuizQuestions(this.state.quizInProgress.idiomIds);
+                quizQuestions = await this.buildQuizQuestions(this.state.quizInProgress.idiomIds);
                 this.state.quizInProgress.questions = quizQuestions;
             }
         }
         return {
             currentDate: today,
             todayIdioms,
-            allIdioms: this.idioms,
+            allIdioms: [], // Deprecated: too large to load all at once
             learnedIdiomIds,
             seenIdiomIds,
             quizRequired,
@@ -74,8 +74,13 @@ export class IdiomStore {
             newlyUnlockedIdiom: null,
         };
     }
-    getIdiomById(id) {
-        return this.idioms.find((i) => i.id === id) ?? null;
+    async getIdiomById(id) {
+        // Use chunk manager to load idiom by ID
+        const idioms = await this.chunkManager.getIdiomsByIds([id]);
+        return idioms[0] ?? null;
+    }
+    async getIdiomsByIds(ids) {
+        return this.chunkManager.getIdiomsByIds(ids);
     }
     getIdiomMeta(id) {
         return this.state.idiomMeta[id] ?? null;
@@ -91,14 +96,16 @@ export class IdiomStore {
             .filter(([_, meta]) => meta.dateLearned)
             .map(([id]) => id);
     }
-    getLearnedIdiomsWithMeta() {
-        return Object.entries(this.state.idiomMeta)
-            .filter(([_, meta]) => meta.dateLearned)
-            .map(([id, meta]) => ({
-            idiom: this.getIdiomById(id),
-            meta,
-        }))
-            .filter((item) => item.idiom !== null);
+    async getLearnedIdiomsWithMeta() {
+        const learnedEntries = Object.entries(this.state.idiomMeta).filter(([_, meta]) => meta.dateLearned);
+        const ids = learnedEntries.map(([id]) => id);
+        const idioms = await this.getIdiomsByIds(ids);
+        return learnedEntries
+            .map(([id, meta]) => {
+            const idiom = idioms.find(i => i.id === id);
+            return idiom ? { idiom, meta } : null;
+        })
+            .filter((item) => item !== null);
     }
     hasQuizInProgress() {
         return this.state.quizInProgress !== null && this.state.quizInProgress.started;
@@ -106,19 +113,26 @@ export class IdiomStore {
     // ─────────────────────────────────────────────
     // Date & Idiom-of-the-Day Logic
     // ─────────────────────────────────────────────
-    ensureTodayHasIdiom() {
+    async ensureTodayHasIdiom() {
         const today = getTodayDateString();
         const dailyLog = this.getDailyLog(today);
         if (dailyLog.seen.length === 0) {
-            this.assignNewIdiomForDate(today);
+            await this.assignNewIdiomForDate(today);
         }
     }
-    assignNewIdiomForDate(date) {
-        if (this.state.nextIdiomIndex >= this.idioms.length) {
+    async assignNewIdiomForDate(date) {
+        // Calculate global index from chunk position
+        const globalIndex = getGlobalIndex(this.state.currentChunkIndex, this.state.currentChunkOffset);
+        if (globalIndex >= TOTAL_IDIOMS) {
             console.warn('All idioms exhausted');
             return null;
         }
-        const idiom = this.idioms[this.state.nextIdiomIndex];
+        // Load the idiom from chunk
+        const idiom = await this.chunkManager.getIdiomAtGlobalIndex(globalIndex);
+        if (!idiom) {
+            console.error(`Failed to load idiom at global index ${globalIndex}`);
+            return null;
+        }
         // Update metadata
         this.state.idiomMeta[idiom.id] = {
             idiomId: idiom.id,
@@ -128,8 +142,20 @@ export class IdiomStore {
         const dailyLog = this.getDailyLog(date);
         dailyLog.seen.unshift(idiom.id);
         this.state.daily[date] = dailyLog;
-        // Increment index
-        this.state.nextIdiomIndex++;
+        // Increment chunk position
+        this.state.currentChunkOffset++;
+        // Check if we need to move to next chunk
+        const currentChunkMeta = await this.chunkManager.loadChunk(this.state.currentChunkIndex);
+        if (this.state.currentChunkOffset >= currentChunkMeta.length) {
+            this.state.currentChunkIndex++;
+            this.state.currentChunkOffset = 0;
+        }
+        // Check if we should preload next chunk
+        if (this.chunkManager.shouldPreloadNext(this.state.currentChunkIndex, this.state.currentChunkOffset)) {
+            this.chunkManager.preloadNextChunk(this.state.currentChunkIndex);
+        }
+        // Update deprecated nextIdiomIndex for backward compatibility
+        this.state.nextIdiomIndex = globalIndex + 1;
         this.persist();
         return idiom;
     }
@@ -141,33 +167,34 @@ export class IdiomStore {
      * Returns { needsQuiz: true } if quiz required first
      * Returns { idiom: Idiom } if immediately available
      */
-    requestNextIdiom() {
+    async requestNextIdiom() {
         const today = getTodayDateString();
         const seenIds = this.getSeenIdiomIds();
         // Only the very first idiom ever is free (no idioms to quiz yet)
         if (seenIds.length === 0) {
-            const idiom = this.assignNewIdiomForDate(today);
+            const idiom = await this.assignNewIdiomForDate(today);
             return { needsQuiz: false, idiom };
         }
         // Quiz required for all subsequent idioms
-        this.startQuiz();
+        await this.startQuiz();
         return { needsQuiz: true, idiom: null };
     }
     // ─────────────────────────────────────────────
     // Quiz Logic
     // ─────────────────────────────────────────────
-    startPracticeQuiz() {
-        this.startQuiz(10, true);
+    async startPracticeQuiz() {
+        await this.startQuiz(10, true);
     }
-    startQuiz(forcedSize, isPracticeMode = false) {
+    async startQuiz(forcedSize, isPracticeMode = false) {
         // Get all seen idioms with metadata
         const seenIds = this.getSeenIdiomIds();
+        const idioms = await this.getIdiomsByIds(seenIds);
         const seenWithMeta = seenIds
             .map((id) => ({
-            idiom: this.getIdiomById(id),
+            idiom: idioms.find(i => i.id === id),
             meta: this.state.idiomMeta[id],
         }))
-            .filter((item) => item.idiom !== null);
+            .filter((item) => item.idiom !== undefined);
         // Separate into seen-not-learned and learned
         const notLearnedYet = seenWithMeta.filter((item) => !item.meta.dateLearned);
         const learned = seenWithMeta.filter((item) => item.meta.dateLearned);
@@ -209,7 +236,7 @@ export class IdiomStore {
             .map((item) => item.idiom.id);
         const shuffledIds = shuffleArray(selectedIds);
         // Generate questions once and store them to preserve option order
-        const questions = this.buildQuizQuestions(shuffledIds);
+        const questions = await this.buildQuizQuestions(shuffledIds);
         // Initialize feedback array for immediate validation
         const feedback = new Array(shuffledIds.length).fill(null).map(() => ({
             answered: false,
@@ -229,11 +256,16 @@ export class IdiomStore {
         this.persist();
     }
     hasUnseenIdioms() {
-        return this.state.nextIdiomIndex < this.idioms.length;
+        const globalIndex = getGlobalIndex(this.state.currentChunkIndex, this.state.currentChunkOffset);
+        return globalIndex < TOTAL_IDIOMS;
     }
-    buildQuizQuestions(idiomIds) {
-        return idiomIds.map((id) => {
-            const idiom = this.getIdiomById(id);
+    async buildQuizQuestions(idiomIds) {
+        const idioms = await this.getIdiomsByIds(idiomIds);
+        return Promise.all(idiomIds.map(async (id) => {
+            const idiom = idioms.find(i => i.id === id);
+            if (!idiom) {
+                throw new Error(`Idiom ${id} not found for quiz generation`);
+            }
             // Randomly select a quiz type for this question
             const quizTypes = ['standard-mcq', 'reverse-mcq', 'cloze', 'usage-identification', 'true-false'];
             // Add word-order only if idiom has multiple words
@@ -257,24 +289,11 @@ export class IdiomStore {
                 default:
                     return this.generateStandardMCQ(idiom);
             }
-        });
+        }));
     }
     generateStandardMCQ(idiom) {
-        const seenIds = this.getSeenIdiomIds();
-        const otherSeenIds = seenIds.filter((otherId) => otherId !== idiom.id);
-        let wrongOptions = shuffleArray(otherSeenIds)
-            .slice(0, 3)
-            .map((otherId) => this.getIdiomById(otherId).definition);
-        if (wrongOptions.length < 3) {
-            const unseenIdioms = this.idioms.filter((i) => !seenIds.includes(i.id) && i.id !== idiom.id);
-            const additionalOptions = shuffleArray(unseenIdioms)
-                .slice(0, 3 - wrongOptions.length)
-                .map((i) => i.definition);
-            wrongOptions = [...wrongOptions, ...additionalOptions];
-        }
-        while (wrongOptions.length < 3) {
-            wrongOptions.push('(No other definition available)');
-        }
+        // Use pre-generated wrong definitions from idiom data
+        const wrongOptions = shuffleArray([...(idiom.wrongDefinitions || [])]).slice(0, 3);
         const options = shuffleArray([idiom.definition, ...wrongOptions]);
         return {
             type: 'standard-mcq',
@@ -285,21 +304,12 @@ export class IdiomStore {
         };
     }
     generateReverseMCQ(idiom) {
-        const seenIds = this.getSeenIdiomIds();
-        const otherSeenIds = seenIds.filter((otherId) => otherId !== idiom.id);
-        let wrongIdioms = shuffleArray(otherSeenIds)
-            .slice(0, 3)
-            .map((otherId) => this.getIdiomById(otherId).idiom);
-        if (wrongIdioms.length < 3) {
-            const unseenIdioms = this.idioms.filter((i) => !seenIds.includes(i.id) && i.id !== idiom.id);
-            const additionalOptions = shuffleArray(unseenIdioms)
-                .slice(0, 3 - wrongIdioms.length)
-                .map((i) => i.idiom);
-            wrongIdioms = [...wrongIdioms, ...additionalOptions];
-        }
-        while (wrongIdioms.length < 3) {
-            wrongIdioms.push('(No other idiom available)');
-        }
+        // Generate plausible but wrong idiom names
+        const wrongIdioms = [
+            idiom.idiom.split(' ').reverse().join(' '), // Reversed word order
+            idiom.idiom.replace(/\b\w+\b/, 'different'), // Replace first word
+            idiom.idiom + ' always', // Add word
+        ].slice(0, 3);
         const options = shuffleArray([idiom.idiom, ...wrongIdioms]);
         return {
             type: 'reverse-mcq',
@@ -333,22 +343,12 @@ export class IdiomStore {
         if (!foundMatch) {
             return this.generateStandardMCQ(idiom);
         }
-        // Generate MCQ options
-        const seenIds = this.getSeenIdiomIds();
-        const otherSeenIds = seenIds.filter((otherId) => otherId !== idiom.id);
-        let wrongIdioms = shuffleArray(otherSeenIds)
-            .slice(0, 3)
-            .map((otherId) => this.getIdiomById(otherId).idiom);
-        if (wrongIdioms.length < 3) {
-            const unseenIdioms = this.idioms.filter((i) => !seenIds.includes(i.id) && i.id !== idiom.id);
-            const additionalOptions = shuffleArray(unseenIdioms)
-                .slice(0, 3 - wrongIdioms.length)
-                .map((i) => i.idiom);
-            wrongIdioms = [...wrongIdioms, ...additionalOptions];
-        }
-        while (wrongIdioms.length < 3) {
-            wrongIdioms.push('(placeholder)');
-        }
+        // Generate simple wrong idiom options
+        const wrongIdioms = [
+            idiom.idiom.split(' ').reverse().join(' '), // Reversed word order
+            idiom.idiom.replace(/\b\w+\b/, 'different'), // Replace first word
+            idiom.idiom + ' always', // Add word
+        ].slice(0, 3);
         const options = shuffleArray([idiom.idiom, ...wrongIdioms]);
         return {
             type: 'cloze',
@@ -389,18 +389,9 @@ export class IdiomStore {
             statement = `"${idiom.idiom}" means: ${idiom.definition}`;
         }
         else {
-            // False statement: use another idiom's definition
-            const seenIds = this.getSeenIdiomIds();
-            const otherSeenIds = seenIds.filter((otherId) => otherId !== idiom.id);
-            if (otherSeenIds.length > 0) {
-                const wrongId = otherSeenIds[Math.floor(Math.random() * otherSeenIds.length)];
-                const wrongDefinition = this.getIdiomById(wrongId).definition;
-                statement = `"${idiom.idiom}" means: ${wrongDefinition}`;
-            }
-            else {
-                // Fallback: alter the definition slightly
-                statement = `"${idiom.idiom}" means: This idiom has an incorrect definition.`;
-            }
+            // False statement: use a wrong definition from the idiom's wrongDefinitions
+            const wrongDef = idiom.wrongDefinitions[Math.floor(Math.random() * idiom.wrongDefinitions.length)];
+            statement = `"${idiom.idiom}" means: ${wrongDef}`;
         }
         return {
             type: 'true-false',
@@ -435,7 +426,10 @@ export class IdiomStore {
         if (!this.state.quizInProgress)
             return;
         const quiz = this.state.quizInProgress;
-        const questions = quiz.questions ?? this.buildQuizQuestions(quiz.idiomIds);
+        if (!quiz.questions) {
+            throw new Error('Quiz questions must be generated before submitting answers');
+        }
+        const questions = quiz.questions;
         const question = questions[questionIndex];
         // Store the answer
         quiz.answers[questionIndex] = answer;
@@ -486,13 +480,13 @@ export class IdiomStore {
             return null;
         return this.state.quizInProgress.feedback[questionIndex] ?? null;
     }
-    completeQuiz() {
+    async completeQuiz() {
         if (!this.state.quizInProgress) {
             return { score: 0, total: 0, passed: false, newIdiom: null };
         }
         const quiz = this.state.quizInProgress;
         // Use stored questions to ensure consistency
-        const questions = quiz.questions ?? this.buildQuizQuestions(quiz.idiomIds);
+        const questions = quiz.questions ?? await this.buildQuizQuestions(quiz.idiomIds);
         const today = getTodayDateString();
         // Use stored feedback instead of re-validating
         let correct = 0;
@@ -550,12 +544,12 @@ export class IdiomStore {
             // Clear quiz state
             this.state.quizInProgress = null;
             // Unlock new idiom
-            newIdiom = this.assignNewIdiomForDate(today);
+            newIdiom = await this.assignNewIdiomForDate(today);
         }
         else {
             // Reset quiz for retry (keep same idioms, regenerate questions with new shuffle)
             const shuffledIds = shuffleArray(quiz.idiomIds);
-            const questions = this.buildQuizQuestions(shuffledIds);
+            const questions = await this.buildQuizQuestions(shuffledIds);
             // Initialize feedback array for immediate validation
             const feedback = new Array(shuffledIds.length).fill(null).map(() => ({
                 answered: false,
@@ -591,6 +585,4 @@ export class IdiomStore {
         this.ensureTodayHasIdiom();
     }
 }
-// Singleton instance
-export const store = new IdiomStore();
 //# sourceMappingURL=index.js.map

@@ -1,5 +1,5 @@
 const STORAGE_KEY = 'idiom_app_data';
-const CURRENT_VERSION = 1;
+const CURRENT_VERSION = 2; // v2: chunk-based loading
 /**
  * Storage abstraction layer
  * Designed for easy future migration to cloud sync
@@ -9,7 +9,9 @@ export function getDefaultState() {
         idiomMeta: {},
         daily: {},
         quizInProgress: null,
-        nextIdiomIndex: 0,
+        nextIdiomIndex: 0, // Deprecated but kept for migration
+        currentChunkIndex: 0,
+        currentChunkOffset: 0,
         version: CURRENT_VERSION,
     };
 }
@@ -20,10 +22,27 @@ export function loadState() {
             return getDefaultState();
         }
         const parsed = JSON.parse(raw);
-        // Version migration could happen here
+        // Version migration
         if (parsed.version !== CURRENT_VERSION) {
-            // Future: handle migrations
+            console.log(`Migrating from version ${parsed.version} to ${CURRENT_VERSION}`);
+            if (parsed.version === 1) {
+                // Migration from v1 to v2: Reset to chunk-based system
+                console.log('Resetting progress to chunk-based system (keeping learned/seen data)');
+                parsed.currentChunkIndex = 0;
+                parsed.currentChunkOffset = 0;
+                // Keep idiomMeta and daily data (user's learning history)
+                // Reset nextIdiomIndex (will be recalculated from chunk position)
+                parsed.nextIdiomIndex = 0;
+            }
             parsed.version = CURRENT_VERSION;
+            saveState(parsed); // Persist migration
+        }
+        // Ensure new fields exist (for robustness)
+        if (parsed.currentChunkIndex === undefined) {
+            parsed.currentChunkIndex = 0;
+        }
+        if (parsed.currentChunkOffset === undefined) {
+            parsed.currentChunkOffset = 0;
         }
         return parsed;
     }

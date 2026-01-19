@@ -1,4 +1,4 @@
-import { store } from '../store/index.js';
+import { store } from '../main.js';
 import { div, span, button, h1, h2, h3, p, ul, li, mount, getById, clearElement } from './dom.js';
 /**
  * UI Rendering Functions
@@ -7,22 +7,22 @@ import { div, span, button, h1, h2, h3, p, ul, li, mount, getById, clearElement 
 // ─────────────────────────────────────────────
 // Home Screen
 // ─────────────────────────────────────────────
-export function renderHomeScreen() {
+export async function renderHomeScreen() {
     const container = getById('app');
     if (!container)
         return;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const { todayIdioms, learnedIdiomIds } = appState;
     const content = div({ className: 'home' }, [
-        renderHeader(),
+        await renderHeader(),
         renderTodayIdioms(todayIdioms, learnedIdiomIds),
-        renderNextIdiomButton(),
-        renderStats(),
+        await renderNextIdiomButton(),
+        await renderStats(),
     ]);
     mount(container, content);
 }
-function renderHeader() {
-    const appState = store.getAppState();
+async function renderHeader() {
+    const appState = await store.getAppState();
     return div({ className: 'header' }, [
         h1({ className: 'header__title' }, ['Idiom of the Day']),
         p({ className: 'header__date' }, [formatDisplayDate(appState.currentDate)]),
@@ -53,21 +53,21 @@ function renderIdiomCard(idiom, isFirst, isLearned) {
         ]),
     ]);
 }
-function renderNextIdiomButton() {
+async function renderNextIdiomButton() {
     const hasUnseen = store.hasUnseenIdioms();
     return div({ className: 'actions' }, [
         button({
             className: 'btn btn--primary btn--large',
             textContent: hasUnseen ? 'Next Idiom →' : 'Keep Practicing 🏋️',
-            onClick: hasUnseen ? handleNextIdiom : () => {
-                store.startPracticeQuiz();
-                renderQuizModal();
+            onClick: hasUnseen ? handleNextIdiom : async () => {
+                await store.startPracticeQuiz();
+                await renderQuizModal();
             },
         }),
     ]);
 }
-function renderStats() {
-    const appState = store.getAppState();
+async function renderStats() {
+    const appState = await store.getAppState();
     return div({ className: 'stats' }, [
         div({ className: 'stats__item' }, [
             span({ className: 'stats__value', textContent: String(appState.seenIdiomIds.length) }),
@@ -85,8 +85,8 @@ function renderStats() {
 let currentQuizAnswers = [];
 let currentQuizIndex = 0;
 let currentWordOrderSelections = {}; // Stores word indices, not words
-export function renderQuizModal() {
-    const appState = store.getAppState();
+export async function renderQuizModal() {
+    const appState = await store.getAppState();
     if (!appState.quizState)
         return;
     const questions = appState.quizQuestions;
@@ -108,9 +108,9 @@ export function renderQuizModal() {
         ]),
     ]);
     document.body.appendChild(overlay);
-    renderQuizQuestion(questions, currentQuizIndex);
+    await renderQuizQuestion(questions, currentQuizIndex);
 }
-function renderQuizQuestion(questions, index) {
+async function renderQuizQuestion(questions, index) {
     const content = getById('quiz-content');
     const footer = getById('quiz-footer');
     if (!content || !footer)
@@ -121,22 +121,22 @@ function renderQuizQuestion(questions, index) {
     // Render based on question type
     switch (question.type) {
         case 'standard-mcq':
-            questionContent = renderStandardMCQ(question, index, progress);
+            questionContent = await renderStandardMCQ(question, index, progress);
             break;
         case 'reverse-mcq':
-            questionContent = renderReverseMCQ(question, index, progress);
+            questionContent = await renderReverseMCQ(question, index, progress);
             break;
         case 'cloze':
-            questionContent = renderClozeQuestion(question, index, progress);
+            questionContent = await renderClozeQuestion(question, index, progress);
             break;
         case 'usage-identification':
-            questionContent = renderUsageIdentification(question, index, progress);
+            questionContent = await renderUsageIdentification(question, index, progress);
             break;
         case 'true-false':
-            questionContent = renderTrueFalse(question, index, progress);
+            questionContent = await renderTrueFalse(question, index, progress);
             break;
         case 'word-order':
-            questionContent = renderWordOrder(question, index, progress);
+            questionContent = await renderWordOrder(question, index, progress);
             break;
         default:
             questionContent = div({}, [span({ textContent: 'Unknown question type' })]);
@@ -155,14 +155,14 @@ function renderQuizQuestion(questions, index) {
                 button({
                     className: 'btn btn--primary',
                     textContent: isLast ? 'View Results' : 'Next Question →',
-                    onClick: () => {
+                    onClick: async () => {
                         if (isLast) {
-                            submitQuiz(questions);
+                            await submitQuiz(questions);
                         }
                         else {
                             store.advanceToNextQuestion();
                             currentQuizIndex = index + 1;
-                            renderQuizQuestion(questions, currentQuizIndex);
+                            await renderQuizQuestion(questions, currentQuizIndex);
                         }
                     },
                 })
@@ -171,10 +171,10 @@ function renderQuizQuestion(questions, index) {
                     className: 'btn btn--primary',
                     textContent: 'Submit Answer',
                     disabled: !hasAnswer,
-                    onClick: () => {
+                    onClick: async () => {
                         if (currentQuizAnswers[index] !== null) {
                             store.submitQuizAnswer(index, currentQuizAnswers[index]);
-                            renderQuizQuestion(questions, index);
+                            await renderQuizQuestion(questions, index);
                         }
                     },
                 }),
@@ -213,12 +213,12 @@ function getCorrectAnswerDisplay(question) {
             return `"${question.correctAnswer}"`;
     }
 }
-function renderStandardMCQ(question, index, progress) {
+async function renderStandardMCQ(question, index, progress) {
     if (question.type !== 'standard-mcq')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     const elements = [
@@ -236,12 +236,12 @@ function renderStandardMCQ(question, index, progress) {
     }
     return div({ className: 'quiz-question' }, elements);
 }
-function renderReverseMCQ(question, index, progress) {
+async function renderReverseMCQ(question, index, progress) {
     if (question.type !== 'reverse-mcq')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     const elements = [
@@ -259,12 +259,12 @@ function renderReverseMCQ(question, index, progress) {
     }
     return div({ className: 'quiz-question' }, elements);
 }
-function renderClozeQuestion(question, index, progress) {
+async function renderClozeQuestion(question, index, progress) {
     if (question.type !== 'cloze')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     const elements = [
@@ -282,12 +282,12 @@ function renderClozeQuestion(question, index, progress) {
     }
     return div({ className: 'quiz-question' }, elements);
 }
-function renderUsageIdentification(question, index, progress) {
+async function renderUsageIdentification(question, index, progress) {
     if (question.type !== 'usage-identification')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     const elements = [
@@ -305,12 +305,12 @@ function renderUsageIdentification(question, index, progress) {
     }
     return div({ className: 'quiz-question' }, elements);
 }
-function renderTrueFalse(question, index, progress) {
+async function renderTrueFalse(question, index, progress) {
     if (question.type !== 'true-false')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     const elements = [
@@ -331,12 +331,12 @@ function renderTrueFalse(question, index, progress) {
     }
     return div({ className: 'quiz-question' }, elements);
 }
-function renderWordOrder(question, index, progress) {
+async function renderWordOrder(question, index, progress) {
     if (question.type !== 'word-order')
         return div({});
     const feedback = store.getQuestionFeedback(index);
     const isSubmitted = feedback?.submitted ?? false;
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const allFeedback = appState.quizState?.feedback;
     const totalQuestions = appState.quizQuestions.length;
     // Initialize selected words array if not exists (stores indices, not words)
@@ -369,15 +369,15 @@ function renderWordOrder(question, index, progress) {
                     return span({
                         className: chipClass,
                         textContent: word,
-                        onClick: isSubmitted ? undefined : () => {
+                        onClick: isSubmitted ? undefined : async () => {
                             // Remove by position in selected array
                             currentWordOrderSelections[index].splice(i, 1);
                             // Update current answer - store selected words as comma-separated
                             const words = currentWordOrderSelections[index].map((idx) => question.shuffledWords[idx]);
                             currentQuizAnswers[index] = words.join(',');
                             // Re-render current question
-                            const appState = store.getAppState();
-                            renderQuizQuestion(appState.quizQuestions, index);
+                            const appState = await store.getAppState();
+                            await renderQuizQuestion(appState.quizQuestions, index);
                         },
                     });
                 })
@@ -391,15 +391,15 @@ function renderWordOrder(question, index, progress) {
             div({ className: 'word-order__chips' }, availableWordsWithIndex.map(({ word, index: wordIndex }) => span({
                 className: 'word-chip word-chip--available',
                 textContent: word,
-                onClick: () => {
+                onClick: async () => {
                     // Add the word's index to selected indices
                     currentWordOrderSelections[index].push(wordIndex);
                     // Update current answer - store selected words as comma-separated
                     const words = currentWordOrderSelections[index].map((idx) => question.shuffledWords[idx]);
                     currentQuizAnswers[index] = words.join(',');
                     // Re-render current question
-                    const appState = store.getAppState();
-                    renderQuizQuestion(appState.quizQuestions, index);
+                    const appState = await store.getAppState();
+                    await renderQuizQuestion(appState.quizQuestions, index);
                 },
             }))),
         ]));
@@ -426,13 +426,15 @@ function renderQuizOption(text, index, isSelected, correctAnswer, isSubmitted) {
         className += ' quiz-option--incorrect';
     return div({
         className,
-        onClick: isSubmitted ? undefined : () => selectQuizOption(index, text),
+        onClick: isSubmitted ? undefined : () => {
+            selectQuizOption(index, text).catch(err => console.error('Error selecting option:', err));
+        },
     }, [
         span({ className: 'quiz-option__marker', textContent: String.fromCharCode(65 + index) }),
         span({ className: 'quiz-option__text', textContent: text }),
     ]);
 }
-function selectQuizOption(optionIndex, answer) {
+async function selectQuizOption(optionIndex, answer) {
     // For true/false questions, convert to lowercase
     if (answer === 'True') {
         currentQuizAnswers[currentQuizIndex] = 'true';
@@ -444,8 +446,8 @@ function selectQuizOption(optionIndex, answer) {
         currentQuizAnswers[currentQuizIndex] = answer;
     }
     // Re-render options to show selection
-    const appState = store.getAppState();
-    renderQuizQuestion(appState.quizQuestions, currentQuizIndex);
+    const appState = await store.getAppState();
+    await renderQuizQuestion(appState.quizQuestions, currentQuizIndex);
 }
 function renderProgressBar(current, total, feedback, isResultsScreen = false) {
     const segments = [];
@@ -466,14 +468,14 @@ function renderProgressBar(current, total, feedback, isResultsScreen = false) {
     const barClass = isResultsScreen ? 'progress-bar progress-bar--results' : 'progress-bar';
     return div({ className: barClass }, segments);
 }
-function submitQuiz(questions) {
+async function submitQuiz(questions) {
     // Submit final answer
     if (currentQuizAnswers[currentQuizIndex] !== null) {
         store.submitQuizAnswer(currentQuizIndex, currentQuizAnswers[currentQuizIndex]);
     }
-    const appState = store.getAppState();
+    const appState = await store.getAppState();
     const feedback = appState.quizState?.feedback;
-    const result = store.completeQuiz();
+    const result = await store.completeQuiz();
     renderQuizResult(result, questions, feedback);
 }
 function renderQuizResult(result, questions, feedback) {
@@ -520,7 +522,7 @@ function renderQuizResult(result, questions, feedback) {
         : button({
             className: 'btn btn--primary',
             textContent: 'Try Again',
-            onClick: () => {
+            onClick: async () => {
                 // Remove old modal before creating new one
                 const modal = getById('quiz-modal');
                 if (modal) {
@@ -529,7 +531,7 @@ function renderQuizResult(result, questions, feedback) {
                 currentQuizAnswers = [];
                 currentQuizIndex = 0;
                 currentWordOrderSelections = {};
-                renderQuizModal();
+                await renderQuizModal();
             },
         }));
 }
@@ -539,23 +541,23 @@ function renderNewIdiomPreview(idiom) {
         p({ className: 'new-idiom-preview__idiom', textContent: idiom.idiom }),
     ]);
 }
-function closeQuizModal() {
+async function closeQuizModal() {
     const modal = getById('quiz-modal');
     if (modal) {
         modal.remove();
     }
-    renderHomeScreen();
+    await renderHomeScreen();
 }
 // ─────────────────────────────────────────────
 // Event Handlers
 // ─────────────────────────────────────────────
-function handleNextIdiom() {
-    const result = store.requestNextIdiom();
+async function handleNextIdiom() {
+    const result = await store.requestNextIdiom();
     if (result.needsQuiz) {
-        renderQuizModal();
+        await renderQuizModal();
     }
     else {
-        renderHomeScreen();
+        await renderHomeScreen();
     }
 }
 // ─────────────────────────────────────────────
@@ -578,9 +580,9 @@ export function initializeUI() {
     store.subscribe(() => {
         // Only re-render home if no quiz modal is open
         if (!getById('quiz-modal')) {
-            renderHomeScreen();
+            renderHomeScreen().catch(err => console.error('Error rendering home screen:', err));
         }
     });
-    renderHomeScreen();
+    renderHomeScreen().catch(err => console.error('Error rendering home screen:', err));
 }
 //# sourceMappingURL=render.js.map
