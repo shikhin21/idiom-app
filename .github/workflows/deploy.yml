@@ -23,8 +23,16 @@ jobs:
       - name: Build
         run: yarn build
       
+      - name: Assemble Release
+        run: |
+          mkdir public
+          cp index.html public/
+          cp styles.css public/
+          cp -r data public/
+          cp -r dist public/
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./public
