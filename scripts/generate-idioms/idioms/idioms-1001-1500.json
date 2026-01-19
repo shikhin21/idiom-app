@@ -239,7 +239,14 @@
       "to cause problems",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They sell candles, incense, and such at the local market."
+      },
+      {
+        "sentence": "We discussed politics, economics, and such during the meeting."
+      }
+    ],
     "wrongExamples": [
       "The price of and suchs has gone up.",
       "He bought a and such at the store.",
@@ -485,7 +492,14 @@
       "to avoid responsibility",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He knew he was dancing with the devil by borrowing money from the loan shark."
+      },
+      {
+        "sentence": "Driving at those speeds on icy roads is just dancing with the devil."
+      }
+    ],
     "wrongExamples": [
       "dance with devil",
       "dance of the devil",
@@ -503,7 +517,14 @@
       "to create confusion",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Truly, a Daniel come to judgment! He solved the dispute fairly."
+      },
+      {
+        "sentence": "We need a Daniel come to judgment to sort out this legal mess."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a daniel come to judgement like that before.",
       "This daniel come to judgement is made of plastic.",
@@ -543,7 +564,14 @@
       "to gain advantage",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He hasn't darkened a church door in twenty years."
+      },
+      {
+        "sentence": "She promised her mother she would darken a church door on Easter."
+      }
+    ],
     "wrongExamples": [
       "darken church door",
       "darken a church",
@@ -673,7 +701,14 @@
       "to make things better",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The dragonflies dart about over the pond."
+      },
+      {
+        "sentence": "She watched the children dart about the playground."
+      }
+    ],
     "wrongExamples": [
       "I always dart about on Mondays.",
       "They forgot to dart about before leaving.",
@@ -719,7 +754,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The rejection letter dashed his hopes of attending the university."
+      },
+      {
+        "sentence": "The sudden rain dashed our hopes for a picnic."
+      }
+    ],
     "wrongExamples": [
       "I always dash someone's hopes on Mondays.",
       "You should never dash someone's hopes in public.",
@@ -762,7 +804,14 @@
       "a harmful practice",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Every daughter of Eve has faced similar challenges."
+      },
+      {
+        "sentence": "She is a true daughter of Eve, full of curiosity."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three daughter of eves.",
       "The price of daughter of eves has gone up.",
@@ -986,7 +1035,14 @@
       "to gain advantage",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We have to be in the fields by day-clean."
+      },
+      {
+        "sentence": "He rose at day-clean to start his chores."
+      }
+    ],
     "wrongExamples": [
       "He bought a day-clean at the store.",
       "The day-clean was on sale yesterday.",
@@ -1051,7 +1107,14 @@
       "to cause problems",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm a day lark, so I'm usually in bed by 9 PM."
+      },
+      {
+        "sentence": "The gym is full of day larks at 5 AM."
+      }
+    ],
     "wrongExamples": [
       "She collected several day larks for her hobby.",
       "I've never seen a day lark like that before.",
@@ -1120,7 +1183,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You can call me day or night if you need help."
+      },
+      {
+        "sentence": "The convenience store is open day or night."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three day or nights.",
       "The day or night was on sale yesterday.",
@@ -1191,7 +1261,14 @@
       "to achieve success",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "In days of yore, knights roamed the land."
+      },
+      {
+        "sentence": "This castle stands as a monument to days of yore."
+      }
+    ],
     "wrongExamples": [
       "The days of yore was on sale yesterday.",
       "He bought a days of yore at the store.",
@@ -1237,7 +1314,14 @@
       "a beneficial outcome",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That argument is dead and buried; let's move on."
+      },
+      {
+        "sentence": "The old proposal is dead and buried now."
+      }
+    ],
     "wrongExamples": [
       "He bought a dead and buried at the store.",
       "The dead and buried was on sale yesterday.",
@@ -1255,7 +1339,14 @@
       "a common mistake",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After the marathon, he was dead asleep for twelve hours."
+      },
+      {
+        "sentence": "Don't wake him; he's dead asleep."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a dead asleep like that before.",
       "That dead asleep looks brand new.",
@@ -1379,7 +1470,14 @@
       "something done carelessly",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'll play angel's advocate and suggest that this plan might actually work well."
+      },
+      {
+        "sentence": "Instead of criticizing, try being the angel's advocate for once."
+      }
+    ],
     "wrongExamples": [
       "He bought a angel's advocate at the store.",
       "That angel's advocate looks brand new.",
@@ -1528,7 +1626,14 @@
       "something done carelessly",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The investment turned out to be a dead loss."
+      },
+      {
+        "sentence": "The whole trip was a dead loss due to the weather."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three dead losss.",
       "I've never seen a dead loss like that before.",
@@ -1590,7 +1695,14 @@
       "to take charge",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That feud is dead 'n' buried."
+      },
+      {
+        "sentence": "Forget about it, it's dead 'n' buried."
+      }
+    ],
     "wrongExamples": [
       "The dead 'n' buried was on sale yesterday.",
       "The price of dead 'n' burieds has gone up.",
@@ -1636,7 +1748,14 @@
       "to cause problems",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The prisoner had to angle for farthings to survive."
+      },
+      {
+        "sentence": "It was a pitiful sight to see them angling for farthings from the tower."
+      }
+    ],
     "wrongExamples": [
       "The instructions said to angle for farthings first thing in the morning.",
       "They forgot to angle for farthings before leaving.",
@@ -1779,7 +1898,14 @@
       "to show weakness",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The pilot performed a miraculous deadstick landing on the highway."
+      },
+      {
+        "sentence": "Engine failure forced a deadstick landing in a field."
+      }
+    ],
     "wrongExamples": [
       "He bought a deadstick landing at the store.",
       "The deadstick landing was on sale yesterday.",
@@ -1935,7 +2061,14 @@
       "to make things better",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The dealer dealt a hand to each player."
+      },
+      {
+        "sentence": "Life has dealt him a tough hand."
+      }
+    ],
     "wrongExamples": [
       "deal hand",
       "They forgot to deal a hand before leaving.",
@@ -2003,7 +2136,14 @@
       "an unnecessary action",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The project suffered death by a thousand paper cuts due to constant minor changes."
+      },
+      {
+        "sentence": "It wasn't one big failure, but death by a thousand paper cuts."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a death by a thousand paper cuts like that before.",
       "That death by a thousand paper cuts looks brand new.",
@@ -2043,7 +2183,14 @@
       "a harmful practice",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You look like death warmed up; go home and rest."
+      },
+      {
+        "sentence": "He came into work looking like death warmed up."
+      }
+    ],
     "wrongExamples": [
       "That death warmed up looks brand new.",
       "I've never seen a death warmed up like that before.",
@@ -2062,7 +2209,14 @@
       "to avoid responsibility",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The investigators combed the debris field for clues."
+      },
+      {
+        "sentence": "The explosion left a large debris field."
+      }
+    ],
     "wrongExamples": [
       "The price of debris fields has gone up.",
       "Where can I find a good debris field?",
@@ -2105,7 +2259,14 @@
       "to gain advantage",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "A decimal dozen of roses."
+      },
+      {
+        "sentence": "He ordered a decimal dozen."
+      }
+    ],
     "wrongExamples": [
       "He bought a decimal dozen at the store.",
       "The decimal dozen was on sale yesterday.",
@@ -2379,7 +2540,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The software is designed to degrade gracefully under heavy load."
+      },
+      {
+        "sentence": "Even if the server fails, the app should degrade gracefully."
+      }
+    ],
     "wrongExamples": [
       "The price of degrade gracefullys has gone up.",
       "She collected several degrade gracefullys for her hobby.",
@@ -2419,7 +2587,14 @@
       "to show weakness",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I got a bad case of Delhi belly during my trip."
+      },
+      {
+        "sentence": "Avoid tap water to prevent Delhi belly."
+      }
+    ],
     "wrongExamples": [
       "That delhi belly looks brand new.",
       "He bought a delhi belly at the store.",
@@ -2438,7 +2613,14 @@
       "to create confusion",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She delights in painting landscapes."
+      },
+      {
+        "sentence": "He delights in teasing his younger brother."
+      }
+    ],
     "wrongExamples": [
       "delight of",
       "Can you teach me to delight in?",
@@ -2528,7 +2710,14 @@
       "to lose control",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He seems to suffer from Derangement Syndrome whenever that politician is mentioned."
+      },
+      {
+        "sentence": "The debate quickly devolved into Derangement Syndrome."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good derangement syndrome?",
       "That derangement syndrome looks brand new.",
@@ -2612,7 +2801,14 @@
       "a beneficial outcome",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Learning French gave him another string to his bow."
+      },
+      {
+        "sentence": "It's always good to have another string to one's bow in this job market."
+      }
+    ],
     "wrongExamples": [
       "He bought a another string to one's bow at the store.",
       "Where can I find a good another string to one's bow?",
@@ -2630,7 +2826,14 @@
       "to gain advantage",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He seemed charming, but he was a devil in disguise."
+      },
+      {
+        "sentence": "That seemingly easy loan was a devil in disguise."
+      }
+    ],
     "wrongExamples": [
       "That devil in disguise looks brand new.",
       "This devil in disguise is made of plastic.",
@@ -2676,7 +2879,14 @@
       "to achieve success",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He had the devil's luck to survive the crash."
+      },
+      {
+        "sentence": "With a bit of devil's luck, we might make it on time."
+      }
+    ],
     "wrongExamples": [
       "She collected several devil's lucks for her hobby.",
       "Where can I find a good devil's luck?",
@@ -2741,7 +2951,14 @@
       "a beneficial outcome",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The discussion is dialing towards a compromise."
+      },
+      {
+        "sentence": "Public opinion seems to be dialing towards stricter laws."
+      }
+    ],
     "wrongExamples": [
       "She learned to dial towards at school.",
       "I always dial towards on Mondays.",
@@ -2831,7 +3048,14 @@
       "to lose control",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The memo was sent out 'dictated but not read'."
+      },
+      {
+        "sentence": "He was in such a rush the letter went out dictated but not read."
+      }
+    ],
     "wrongExamples": [
       "She collected several dictated but not reads for her hobby.",
       "The dictated but not read was on sale yesterday.",
@@ -2999,7 +3223,14 @@
       "to achieve success",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He dug a hole for himself by lying to his boss."
+      },
+      {
+        "sentence": "Stop digging a hole for yourself and just admit the mistake."
+      }
+    ],
     "wrongExamples": [
       "dig hole for oneself",
       "dig a hole for",
@@ -3127,7 +3358,14 @@
       "to gain advantage",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She dug herself in a hole with that comment."
+      },
+      {
+        "sentence": "Every time he speaks, he digs himself in a hole."
+      }
+    ],
     "wrongExamples": [
       "dig oneself in hole",
       "dig oneself with a hole",
@@ -3145,7 +3383,14 @@
       "to create confusion",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The toddler dug his heels in and refused to leave the park."
+      },
+      {
+        "sentence": "The union dug its heels in during the negotiations."
+      }
+    ],
     "wrongExamples": [
       "dig one's heels of",
       "dig one's heels",
@@ -3493,7 +3738,14 @@
       "an unnecessary action",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He dipped out of the party early."
+      },
+      {
+        "sentence": "She dipped out before the bill arrived."
+      }
+    ],
     "wrongExamples": [
       "I always dip out on Mondays.",
       "She learned to dip out at school.",
@@ -3511,7 +3763,14 @@
       "to achieve success",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The journalist claimed to have a dirt file on the celebrity."
+      },
+      {
+        "sentence": "They keep a dirt file on all their political opponents."
+      }
+    ],
     "wrongExamples": [
       "The price of dirt files has gone up.",
       "She collected several dirt files for her hobby.",
@@ -3836,7 +4095,14 @@
       "a common mistake",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "When the police arrived, the suspect did a bunk."
+      },
+      {
+        "sentence": "He did a bunk with the company funds."
+      }
+    ],
     "wrongExamples": [
       "do bunk",
       "He tried to do a bunk but failed miserably.",
@@ -3855,7 +4121,14 @@
       "something done carelessly",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This job offer is the answer to my prayers."
+      },
+      {
+        "sentence": "The rain was the answer to the farmers' prayers."
+      }
+    ],
     "wrongExamples": [
       "She lost her answer to someone's prayers last week.",
       "She collected several answer to someone's prayerss for her hobby.",
@@ -3982,7 +4255,14 @@
       "something done carelessly",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The kids were doing cartwheels on the lawn."
+      },
+      {
+        "sentence": "She was so happy she felt like doing cartwheels."
+      }
+    ],
     "wrongExamples": [
       "You should never do cartwheels in public.",
       "Can you teach me to do cartwheels?",
@@ -4000,7 +4280,14 @@
       "to gain advantage",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He won't take his own advice; doctors make the worst patients."
+      },
+      {
+        "sentence": "Trying to treat a surgeon is hard; doctors make the worst patients."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three doctors make the worst patientss.",
       "I've never seen a doctors make the worst patients like that before.",
@@ -4046,7 +4333,14 @@
       "to create confusion",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't let them do you down; you're talented."
+      },
+      {
+        "sentence": "He always tries to do down his colleagues."
+      }
+    ],
     "wrongExamples": [
       "Everyone should do down at least once.",
       "I always do down on Mondays.",
@@ -4114,7 +4408,14 @@
       "to face challenges",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Is he happy about the raise? Does the Pope wear a funny hat?"
+      },
+      {
+        "sentence": "Will I be there? Does the Pope wear a funny hat?"
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good does the pope wear a funny hat?",
       "He bought a does the pope wear a funny hat at the store.",
@@ -4160,7 +4461,14 @@
       "to lose control",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They work well as a dog and cat team."
+      },
+      {
+        "sentence": "The detectives were a classic dog and cat pair."
+      }
+    ],
     "wrongExamples": [
       "The dog and cat was on sale yesterday.",
       "Where can I find a good dog and cat?",
@@ -4206,7 +4514,14 @@
       "to create confusion",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He dogged around his mentor to learn the trade."
+      },
+      {
+        "sentence": "She's been dogging around the manager for a promotion."
+      }
+    ],
     "wrongExamples": [
       "He tried to dog around but failed miserably.",
       "The instructions said to dog around first thing in the morning.",
@@ -4415,7 +4730,14 @@
       "a beneficial outcome",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Now that he's won the election, he's like the dog who caught the tire."
+      },
+      {
+        "sentence": "I got the job, but now I feel like the dog who caught the tire."
+      }
+    ],
     "wrongExamples": [
       "He bought a dog who caught the tire at the store.",
       "The dog who caught the tire was on sale yesterday.",
@@ -4592,7 +4914,14 @@
       "something done carelessly",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You want me to do what? Do me a lemon!"
+      },
+      {
+        "sentence": "Do me a lemon, I'm not paying that much."
+      }
+    ],
     "wrongExamples": [
       "She collected several do me a lemons for her hobby.",
       "The price of do me a lemons has gone up.",
@@ -4761,7 +5090,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't call me sir, I work for a living, sergeant."
+      },
+      {
+        "sentence": "He corrected the recruit: 'Don't call me sir, I work for a living!'"
+      }
+    ],
     "wrongExamples": [
       "My friend owns three don't call me sir, i work for a livings.",
       "She collected several don't call me sir, i work for a livings for her hobby.",
@@ -4801,7 +5137,14 @@
       "to lose control",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Good luck in there, and don't drop the soap."
+      },
+      {
+        "sentence": "The comedian made a crude joke about not dropping the soap."
+      }
+    ],
     "wrongExamples": [
       "She collected several don't drop the soaps for her hobby.",
       "The price of don't drop the soaps has gone up.",
@@ -4963,7 +5306,14 @@
       "to avoid responsibility",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You're fired! And don't let the door hit you on the way out."
+      },
+      {
+        "sentence": "I'm leaving, and I won't let the door hit me on the way out."
+      }
+    ],
     "wrongExamples": [
       "That don't let the door hit you on the way out looks brand new.",
       "I've never seen a don't let the door hit you on the way out like that before.",
@@ -4981,7 +5331,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I broke a glass. - Don't sweat it, it was cheap."
+      },
+      {
+        "sentence": "Don't sweat it; we have plenty of time."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good don't sweat it?",
       "My friend owns three don't sweat its.",
@@ -5471,7 +5828,14 @@
       "to make things better",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He really did her wrong by cheating on her."
+      },
+      {
+        "sentence": "I feel like I did him wrong by accusing him."
+      }
+    ],
     "wrongExamples": [
       "They forgot to do somebody wrong before leaving.",
       "It takes practice to do somebody wrong correctly.",
@@ -5592,7 +5956,14 @@
       "to achieve success",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to do the dash before the cops come."
+      },
+      {
+        "sentence": "He did the dash as soon as the bell rang."
+      }
+    ],
     "wrongExamples": [
       "do dash",
       "They forgot to do the dash before leaving.",
@@ -5676,7 +6047,14 @@
       "to take charge",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Will you do the honors and carve the turkey?"
+      },
+      {
+        "sentence": "He did the honors of pouring the champagne."
+      }
+    ],
     "wrongExamples": [
       "do honors",
       "He tried to do the honors but failed miserably.",
@@ -5775,7 +6153,14 @@
       "to achieve success",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's not enough to post online; you have to do the work."
+      },
+      {
+        "sentence": "She is committed to doing the work for racial justice."
+      }
+    ],
     "wrongExamples": [
       "do work",
       "He tried to do the work but failed miserably.",
@@ -5981,7 +6366,14 @@
       "an unnecessary action",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That dress is a real double taker."
+      },
+      {
+        "sentence": "The similarity was a double taker."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three double takers.",
       "The price of double takers has gone up.",
@@ -6049,7 +6441,14 @@
       "to face challenges",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is a dough-faced politician who changes his views for votes."
+      },
+      {
+        "sentence": "I can't stand his dough-faced flattery."
+      }
+    ],
     "wrongExamples": [
       "The price of dough-faceds has gone up.",
       "Where can I find a good dough-faced?",
@@ -6173,7 +6572,14 @@
       "an unnecessary action",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She has done well for herself in the city."
+      },
+      {
+        "sentence": "He moved abroad and did well for himself."
+      }
+    ],
     "wrongExamples": [
       "do well for",
       "You should never do well for oneself in public.",
@@ -6269,7 +6675,14 @@
       "a common mistake",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He gave money to a down-and-outer on the street."
+      },
+      {
+        "sentence": "The shelter helps down-and-outers get back on their feet."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three down-and-outers.",
       "The down-and-outer was on sale yesterday.",
@@ -6393,7 +6806,14 @@
       "to gain advantage",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I explained it twice, but he wasn't any the wiser."
+      },
+      {
+        "sentence": "Are you any the wiser about what happened?"
+      }
+    ],
     "wrongExamples": [
       "This any the wiser is made of plastic.",
       "She lost her any the wiser last week.",
@@ -6495,7 +6915,14 @@
       "to show weakness",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After losing his job, he was down on his uppers."
+      },
+      {
+        "sentence": "They were down on their uppers but still hopeful."
+      }
+    ],
     "wrongExamples": [
       "The down on one's uppers was on sale yesterday.",
       "That down on one's uppers looks brand new.",
@@ -6514,7 +6941,14 @@
       "to make things better",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The whole plan went down the cludgie."
+      },
+      {
+        "sentence": "That's money down the cludgie."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three down the cludgies.",
       "She collected several down the cludgies for her hobby.",
@@ -6864,7 +7298,14 @@
       "a common mistake",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She was dismissed as an ape leader by the village gossips."
+      },
+      {
+        "sentence": "In the play, the character is a bitter ape leader."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three ape leaders.",
       "She lost her ape leader last week.",
@@ -6882,7 +7323,14 @@
       "a harmful practice",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The ad campaign tries too hard to be down with the kids."
+      },
+      {
+        "sentence": "He thinks he's down with the kids because he uses slang."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a down with the kids like that before.",
       "That down with the kids looks brand new.",
@@ -7019,7 +7467,14 @@
       "to make things better",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's such a drama king about everything."
+      },
+      {
+        "sentence": "Don't be a drama king; it's just a scratch."
+      }
+    ],
     "wrongExamples": [
       "That drama king looks brand new.",
       "She lost her drama king last week.",
@@ -7140,7 +7595,14 @@
       "to gain advantage",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "To say he's a genius is drawing a long bow."
+      },
+      {
+        "sentence": "You're drawing a long bow with that comparison."
+      }
+    ],
     "wrongExamples": [
       "draw long bow",
       "draw a long",
@@ -7291,7 +7753,14 @@
       "a common mistake",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The umpires drew stumps due to bad light."
+      },
+      {
+        "sentence": "It's getting late; let's draw stumps on this meeting."
+      }
+    ],
     "wrongExamples": [
       "It takes practice to draw stumps correctly.",
       "I always draw stumps on Mondays.",
@@ -7521,7 +7990,14 @@
       "to avoid responsibility",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She arrived at the gala dressed to kill."
+      },
+      {
+        "sentence": "He was dressed to kill for his date."
+      }
+    ],
     "wrongExamples": [
       "dress on kill",
       "I always dress to kill on Mondays.",
@@ -7539,7 +8015,14 @@
       "a beneficial outcome",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She worries about becoming a dried-fish woman."
+      },
+      {
+        "sentence": "The drama portrays the life of a so-called dried-fish woman."
+      }
+    ],
     "wrongExamples": [
       "She collected several dried-fish womans for her hobby.",
       "She lost her dried-fish woman last week.",
@@ -7632,7 +8115,14 @@
       "a beneficial outcome",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I appeal from Philip drunk to Philip sober; please reconsider in the morning."
+      },
+      {
+        "sentence": "It was a case of appealing from Philip drunk to Philip sober."
+      }
+    ],
     "wrongExamples": [
       "appeal with Philip drunk to Philip sober",
       "appeal from Philip drunk to Philip",
@@ -7673,7 +8163,14 @@
       "to face challenges",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This pub is my favorite drinking hole."
+      },
+      {
+        "sentence": "They met at their local drinking hole."
+      }
+    ],
     "wrongExamples": [
       "She collected several drinking holes for her hobby.",
       "The drinking hole was on sale yesterday.",
@@ -7691,7 +8188,14 @@
       "an unnecessary action",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He sat in the corner, drinking with the flies."
+      },
+      {
+        "sentence": "I'd rather go out than stay home drinking with the flies."
+      }
+    ],
     "wrongExamples": [
       "drink with flies",
       "drink to the flies",
@@ -7814,7 +8318,14 @@
       "a beneficial outcome",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The drive-by media moved on to the next scandal."
+      },
+      {
+        "sentence": "Don't believe everything you hear from the drive-by media."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good drive-by media?",
       "He bought a drive-by media at the store.",
@@ -7995,7 +8506,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "High demand drove up the prices."
+      },
+      {
+        "sentence": "Speculation drove up the stock value."
+      }
+    ],
     "wrongExamples": [
       "He tried to drive up but failed miserably.",
       "Can you teach me to drive up?",
@@ -8041,7 +8559,14 @@
       "to achieve success",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I think I've dropped a bollock with these calculations."
+      },
+      {
+        "sentence": "He dropped a huge bollock by forgetting the tickets."
+      }
+    ],
     "wrongExamples": [
       "drop bollock",
       "He tried to drop a bollock but failed miserably.",
@@ -8208,7 +8733,14 @@
       "to create confusion",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She dropped a hint about what she wanted for her birthday."
+      },
+      {
+        "sentence": "He kept dropping hints, but I didn't catch on."
+      }
+    ],
     "wrongExamples": [
       "drop hint",
       "She learned to drop a hint at school.",
@@ -8226,7 +8758,14 @@
       "to lose control",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's in the bathroom dropping a log."
+      },
+      {
+        "sentence": "I need to go drop a log."
+      }
+    ],
     "wrongExamples": [
       "drop log",
       "She learned to drop a log at school.",
@@ -8631,7 +9170,14 @@
       "to make things better",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Let's drop the topic before we start arguing."
+      },
+      {
+        "sentence": "He refused to drop the topic of politics."
+      }
+    ],
     "wrongExamples": [
       "drop topic",
       "They forgot to drop the topic before leaving.",
@@ -8693,7 +9239,14 @@
       "to gain advantage",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He dropped trow for the doctor."
+      },
+      {
+        "sentence": "The prankster dropped trow in public."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to drop trow?",
       "The instructions said to drop trow first thing in the morning.",
@@ -8761,7 +9314,14 @@
       "to gain advantage",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Coffee is my drug of choice."
+      },
+      {
+        "sentence": "Heroin was his drug of choice."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good drug of choice?",
       "My friend owns three drug of choices.",
@@ -8804,7 +9364,14 @@
       "an unnecessary action",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "My parents drummed into me the importance of honesty."
+      },
+      {
+        "sentence": "The rules were drummed into the recruits."
+      }
+    ],
     "wrongExamples": [
       "The manual shows how to drum into properly.",
       "Everyone should drum into at least once.",
@@ -9063,7 +9630,14 @@
       "to achieve success",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We ducked down behind the wall."
+      },
+      {
+        "sentence": "He ducked down to avoid the flying ball."
+      }
+    ],
     "wrongExamples": [
       "The instructions said to duck down first thing in the morning.",
       "Everyone should duck down at least once.",
@@ -9081,7 +9655,14 @@
       "to make things better",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's been ducked off at his cabin for weeks."
+      },
+      {
+        "sentence": "The suspect is ducked off somewhere in the city."
+      }
+    ],
     "wrongExamples": [
       "She lost her ducked off last week.",
       "This ducked off is made of plastic.",
@@ -9099,7 +9680,14 @@
       "to take charge",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Let's duck off to the cinema."
+      },
+      {
+        "sentence": "He ducked off before the work started."
+      }
+    ],
     "wrongExamples": [
       "I always duck off on Mondays.",
       "You should never duck off in public.",
@@ -9173,7 +9761,14 @@
       "to gain advantage",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Fixing this car is duck soup."
+      },
+      {
+        "sentence": "Compared to the last exam, this one was duck soup."
+      }
+    ],
     "wrongExamples": [
       "That duck soup looks brand new.",
       "The duck soup was on sale yesterday.",
@@ -9379,7 +9974,14 @@
       "to take charge",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The flood response showed the true Dunkirk spirit."
+      },
+      {
+        "sentence": "We need a bit of Dunkirk spirit to get through this crisis."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a dunkirk spirit like that before.",
       "He bought a dunkirk spirit at the store.",
@@ -9454,7 +10056,14 @@
       "to make things better",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "There are dust mice under the bed."
+      },
+      {
+        "sentence": "She swept up the dust mice."
+      }
+    ],
     "wrongExamples": [
       "He bought a dust mouse at the store.",
       "The price of dust mouses has gone up.",
@@ -9641,7 +10250,14 @@
       "to show weakness",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is a dyed-in-the-wool conservative."
+      },
+      {
+        "sentence": "She is a dyed-in-the-wool fan of the team."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three dyed in the wools.",
       "That dyed in the wool looks brand new.",
@@ -9712,7 +10328,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The batter hit a dying quail to shallow center."
+      },
+      {
+        "sentence": "It wasn't a hard hit, just a dying quail."
+      }
+    ],
     "wrongExamples": [
       "She lost her dying quail last week.",
       "She collected several dying quails for her hobby.",
@@ -9802,7 +10425,14 @@
       "something done carelessly",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He eagled out right before his 18th birthday."
+      },
+      {
+        "sentence": "Many scouts aim to eagle out."
+      }
+    ],
     "wrongExamples": [
       "Everyone should eagle out at least once.",
       "He tried to eagle out but failed miserably.",
@@ -9820,7 +10450,14 @@
       "a beneficial outcome",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He worked hard to eagle up."
+      },
+      {
+        "sentence": "She eagled up last year."
+      }
+    ],
     "wrongExamples": [
       "She learned to eagle up at school.",
       "He tried to eagle up but failed miserably.",
@@ -9960,7 +10597,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Suddenly, there was an ear-piercing scream."
+      },
+      {
+        "sentence": "The alarm made an ear-piercing noise."
+      }
+    ],
     "wrongExamples": [
       "He bought a ear-piercing at the store.",
       "The ear-piercing was on sale yesterday.",
@@ -10028,7 +10672,14 @@
       "to lose control",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He wears large ear tunnels."
+      },
+      {
+        "sentence": "She bought a new pair of wooden ear tunnels."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a ear tunnel like that before.",
       "That ear tunnel looks brand new.",
@@ -10099,7 +10750,14 @@
       "to take charge",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The con artist saw him as an easy mark."
+      },
+      {
+        "sentence": "Tourists are often easy marks for pickpockets."
+      }
+    ],
     "wrongExamples": [
       "That easy mark looks brand new.",
       "The price of easy marks has gone up.",
@@ -10205,7 +10863,14 @@
       "to create confusion",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The unguarded warehouse was easy pickings for thieves."
+      },
+      {
+        "sentence": "They thought the weak team would be easy pickings."
+      }
+    ],
     "wrongExamples": [
       "She lost her easy pickings last week.",
       "My friend owns three easy pickingss.",
@@ -10251,7 +10916,14 @@
       "a common mistake",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't panic; just eat the elephant one bite at a time."
+      },
+      {
+        "sentence": "Writing a book is hard, but you eat the elephant one bite at a time."
+      }
+    ],
     "wrongExamples": [
       "eat elephant one bite at time",
       "eat an elephant one bite to a time",
@@ -10349,7 +11021,14 @@
       "to create confusion",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He had to eat dirt and apologize."
+      },
+      {
+        "sentence": "I made him eat dirt for his insults."
+      }
+    ],
     "wrongExamples": [
       "She learned to eat dirt at school.",
       "You should never eat dirt in public.",
@@ -10367,7 +11046,14 @@
       "to cause problems",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She's eating for two now."
+      },
+      {
+        "sentence": "You don't really need to eat for two in the first trimester."
+      }
+    ],
     "wrongExamples": [
       "I always eat for two on Mondays.",
       "It takes practice to eat for two correctly.",
@@ -10385,7 +11071,14 @@
       "to take charge",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The character was portrayed as an arch doxy of the underworld."
+      },
+      {
+        "sentence": "She ruled the gang like an arch doxy."
+      }
+    ],
     "wrongExamples": [
       "The arch doxy was on sale yesterday.",
       "She lost her arch doxy last week.",
@@ -10432,7 +11125,14 @@
       "an unnecessary action",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I made a mistake, and now I have to eat it."
+      },
+      {
+        "sentence": "He told me to eat it when I complained."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good eat it?",
       "She lost her eat it last week.",
@@ -10478,7 +11178,14 @@
       "to face challenges",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You can't eat your cake and have it too."
+      },
+      {
+        "sentence": "He wants to keep his freedom and be married—eat his cake and have it too."
+      }
+    ],
     "wrongExamples": [
       "She collected several eat one's cake and have it toos for her hobby.",
       "The price of eat one's cake and have it toos has gone up.",
@@ -10522,7 +11229,14 @@
       "to face challenges",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The depressed officer ate his gun."
+      },
+      {
+        "sentence": "It's a tragedy when someone feels driven to eat their gun."
+      }
+    ],
     "wrongExamples": [
       "He tried to eat one's gun but failed miserably.",
       "I always eat one's gun on Mondays.",
@@ -10640,7 +11354,14 @@
       "to create confusion",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I called you three times! Are you deaf?"
+      },
+      {
+        "sentence": "Turn down the music! Are you deaf?"
+      }
+    ],
     "wrongExamples": [
       "She lost her are you deaf last week.",
       "She collected several are you deafs for her hobby.",
@@ -10685,7 +11406,14 @@
       "to lose control",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Cutting research funding is eating our seed corn."
+      },
+      {
+        "sentence": "We shouldn't eat our seed corn for short-term profits."
+      }
+    ],
     "wrongExamples": [
       "eat one's seed",
       "You should never eat one's seed corn in public.",
@@ -11004,7 +11732,14 @@
       "to show weakness",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He lives out on the edge of the earth."
+      },
+      {
+        "sentence": "It felt like we sailed to the edge of the earth."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good edge of the earth?",
       "This edge of the earth is made of plastic.",
@@ -11022,7 +11757,14 @@
       "to cause problems",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This place is at the edge of the world."
+      },
+      {
+        "sentence": "They traveled to the edge of the world to find it."
+      }
+    ],
     "wrongExamples": [
       "He bought a edge of the world at the store.",
       "The edge of the world was on sale yesterday.",
@@ -11249,7 +11991,14 @@
       "a common mistake",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Information travels fast on the electronic superhighway."
+      },
+      {
+        "sentence": "He was an early pioneer of the electronic superhighway."
+      }
+    ],
     "wrongExamples": [
       "He bought a electronic superhighway at the store.",
       "I've never seen a electronic superhighway like that before.",
@@ -11567,7 +12316,14 @@
       "a common mistake",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Using a supercomputer for simple addition is employing a steam engine to crack a nut."
+      },
+      {
+        "sentence": "Don't employ a steam engine to crack a nut; use a simple hammer."
+      }
+    ],
     "wrongExamples": [
       "employ steam engine to crack nut",
       "employ a steam engine at crack a nut",
@@ -11663,7 +12419,14 @@
       "something done carelessly",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His apology was just empty words."
+      },
+      {
+        "sentence": "I'm tired of your empty words; show me action."
+      }
+    ],
     "wrongExamples": [
       "That empty words looks brand new.",
       "The empty words was on sale yesterday.",
@@ -11709,7 +12472,14 @@
       "to take charge",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "All his plans ended in smoke."
+      },
+      {
+        "sentence": "The investment ended in smoke."
+      }
+    ],
     "wrongExamples": [
       "end at smoke",
       "He tried to end in smoke but failed miserably.",
@@ -11727,7 +12497,14 @@
       "to make things better",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The party ended in tears when the fight started."
+      },
+      {
+        "sentence": "It will all end in tears if you're not careful."
+      }
+    ],
     "wrongExamples": [
       "end at tears",
       "Everyone should end in tears at least once.",
@@ -11824,7 +12601,14 @@
       "to take charge",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's like the Energizer bunny; he never stops."
+      },
+      {
+        "sentence": "She kept going like the Energizer bunny."
+      }
+    ],
     "wrongExamples": [
       "He bought a energizer bunny at the store.",
       "The energizer bunny was on sale yesterday.",

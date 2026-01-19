@@ -362,7 +362,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need a change of tack if we want to reach the younger audience."
+      },
+      {
+        "sentence": "After the initial failure, a complete change of tack was necessary."
+      }
+    ],
     "wrongExamples": [
       "She lost her change of tack last week.",
       "I've never seen a change of tack like that before.",
@@ -405,7 +412,14 @@
       "to create confusion",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The general decided to change his battery and attack from the flank."
+      },
+      {
+        "sentence": "If this strategy doesn't work, we'll have to change our battery."
+      }
+    ],
     "wrongExamples": [
       "She learned to change one's battery at school.",
       "You should never change one's battery in public.",
@@ -482,7 +496,14 @@
       "a harmful practice",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The factory will change over to the new production line next month."
+      },
+      {
+        "sentence": "It took a while to change over from the old software."
+      }
+    ],
     "wrongExamples": [
       "They forgot to change over before leaving.",
       "The manual shows how to change over properly.",
@@ -683,7 +704,14 @@
       "to take charge",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I try to avoid eye contact with the charity muggers on the high street."
+      },
+      {
+        "sentence": "He was stopped by a charity mugger asking for a monthly donation."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good charity mugger?",
       "This charity mugger is made of plastic.",
@@ -770,7 +798,14 @@
       "to create confusion",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He could charm the birds from the trees with his smooth talk."
+      },
+      {
+        "sentence": "She has a smile that could charm the birds from the trees."
+      }
+    ],
     "wrongExamples": [
       "charm birds from trees",
       "charm the birds on the trees",
@@ -986,7 +1021,14 @@
       "to face challenges",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He lost everything chasing the dragon."
+      },
+      {
+        "sentence": "The documentary explored the lives of those chasing the dragon."
+      }
+    ],
     "wrongExamples": [
       "chase dragon",
       "You should never chase the dragon in public.",
@@ -1051,7 +1093,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't buy just one; they are cheaper by the dozen."
+      },
+      {
+        "sentence": "We bought the eggs because they were cheaper by the dozen."
+      }
+    ],
     "wrongExamples": [
       "She lost her cheaper by the dozen last week.",
       "Where can I find a good cheaper by the dozen?",
@@ -1225,7 +1274,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You'd better check the math on that invoice."
+      },
+      {
+        "sentence": "I checked the math three times, and it still doesn't add up."
+      }
+    ],
     "wrongExamples": [
       "check math",
       "Can you teach me to check the math?",
@@ -1243,7 +1299,14 @@
       "to create confusion",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Security checked us through quickly."
+      },
+      {
+        "sentence": "They checked the cargo through without inspection."
+      }
+    ],
     "wrongExamples": [
       "He tried to check through but failed miserably.",
       "It takes practice to check through correctly.",
@@ -1289,7 +1352,14 @@
       "to avoid responsibility",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Come here, you cheeky monkey!"
+      },
+      {
+        "sentence": "That cheeky monkey hid my keys again."
+      }
+    ],
     "wrongExamples": [
       "That cheeky monkey looks brand new.",
       "She collected several cheeky monkeys for her hobby.",
@@ -1690,7 +1760,14 @@
       "to achieve success",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He promised to help, but he's all talk and no cider."
+      },
+      {
+        "sentence": "The politician was all talk and no cider."
+      }
+    ],
     "wrongExamples": [
       "The price of all talk and no ciders has gone up.",
       "That all talk and no cider looks brand new.",
@@ -1887,7 +1964,14 @@
       "a harmful practice",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His threat to quit was just China's final warning; he's still here."
+      },
+      {
+        "sentence": "Don't worry about it; it's another China's final warning."
+      }
+    ],
     "wrongExamples": [
       "She collected several china's final warnings for her hobby.",
       "The china's final warning was on sale yesterday.",
@@ -1933,7 +2017,14 @@
       "a beneficial outcome",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She gave me a Chinese compliment about my 'brave' fashion choice."
+      },
+      {
+        "sentence": "It sounded nice, but I suspect it was a Chinese compliment."
+      }
+    ],
     "wrongExamples": [
       "This chinese compliment is made of plastic.",
       "My friend owns three chinese compliments.",
@@ -1979,7 +2070,14 @@
       "an unnecessary action",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The new contract forces us into Chinese overtime."
+      },
+      {
+        "sentence": "He's earning less per hour due to Chinese overtime rules."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a chinese overtime like that before.",
       "My friend owns three chinese overtimes.",
@@ -2075,7 +2173,14 @@
       "a harmful practice",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The scandal revealed a chink in the armor of the popular candidate."
+      },
+      {
+        "sentence": "We found a chink in their armor and exploited it."
+      }
+    ],
     "wrongExamples": [
       "This chink in the armor is made of plastic.",
       "The price of chink in the armors has gone up.",
@@ -2093,7 +2198,14 @@
       "something done carelessly",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to chink up these cracks before winter."
+      },
+      {
+        "sentence": "They chinked up the log cabin with mud."
+      }
+    ],
     "wrongExamples": [
       "He tried to chink up but failed miserably.",
       "The instructions said to chink up first thing in the morning.",
@@ -2300,7 +2412,14 @@
       "to create confusion",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That umbrella is as useful as a chocolate teapot in this hurricane."
+      },
+      {
+        "sentence": "Buying him a book he's already read is like a chocolate teapot."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three chocolate teapots.",
       "I've never seen a chocolate teapot like that before.",
@@ -2451,7 +2570,14 @@
       "a common mistake",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He showed up with professional clubs but played like a beginner—all the gear and no idea."
+      },
+      {
+        "sentence": "Don't be all the gear and no idea; learn the basics first."
+      }
+    ],
     "wrongExamples": [
       "He bought a all the gear and no idea at the store.",
       "Where can I find a good all the gear and no idea?",
@@ -2580,7 +2706,14 @@
       "to show weakness",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He realized college wasn't for him and became a Christmas graduate."
+      },
+      {
+        "sentence": "The university is worried about the number of Christmas graduates."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good christmas graduate?",
       "She lost her christmas graduate last week.",
@@ -2598,7 +2731,14 @@
       "to make things better",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The budget became a Christmas tree bill with something for everyone."
+      },
+      {
+        "sentence": "Senators hung so many amendments on it that it turned into a Christmas tree bill."
+      }
+    ],
     "wrongExamples": [
       "He bought a christmas tree bill at the store.",
       "The christmas tree bill was on sale yesterday.",
@@ -2822,7 +2962,14 @@
       "to take charge",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The company circled the wagons to defend against the hostile takeover."
+      },
+      {
+        "sentence": "When the scandal broke, the family circled the wagons."
+      }
+    ],
     "wrongExamples": [
       "circle wagons",
       "She learned to circle the wagons at school.",
@@ -3109,7 +3256,14 @@
       "a common mistake",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After the cleaning, the room was as clean as a whistle."
+      },
+      {
+        "sentence": "His record is clean as a whistle."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three clean as a whistles.",
       "He bought a clean as a whistle at the store.",
@@ -3457,7 +3611,14 @@
       "to gain advantage",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Please help me clear the table after dinner."
+      },
+      {
+        "sentence": "The waiter cleared the table efficiently."
+      }
+    ],
     "wrongExamples": [
       "clear table",
       "Everyone should clear the table at least once.",
@@ -3803,7 +3964,14 @@
       "to make things better",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's not perfect, but it's close enough for government work."
+      },
+      {
+        "sentence": "I measured it by eye—close enough for government work."
+      }
+    ],
     "wrongExamples": [
       "close enough for government",
       "Everyone should close enough for government work at least once.",
@@ -3967,7 +4135,14 @@
       "to show weakness",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Fishing is prohibited during the close season."
+      },
+      {
+        "sentence": "They do maintenance on the stadium during the close season."
+      }
+    ],
     "wrongExamples": [
       "You should never close season in public.",
       "The instructions said to close season first thing in the morning.",
@@ -4013,7 +4188,14 @@
       "to create confusion",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to close the books on this fiscal year."
+      },
+      {
+        "sentence": "Let's close the books on this unfortunate incident."
+      }
+    ],
     "wrongExamples": [
       "close books",
       "You should never close the books in public.",
@@ -4031,7 +4213,14 @@
       "to face challenges",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You went all the way to Egery and back just to get milk?"
+      },
+      {
+        "sentence": "He took us all the way to Egery and back to avoid the traffic."
+      }
+    ],
     "wrongExamples": [
       "The price of all the way to egery and backs has gone up.",
       "He bought a all the way to egery and back at the store.",
@@ -4049,7 +4238,14 @@
       "a common mistake",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He closed the face of the bat to guide the ball."
+      },
+      {
+        "sentence": "Closing the face too early resulted in a hook."
+      }
+    ],
     "wrongExamples": [
       "close face",
       "She learned to close the face at school.",
@@ -4117,7 +4313,14 @@
       "to achieve success",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I cast a clothespin vote because both candidates were terrible."
+      },
+      {
+        "sentence": "It was a clothespin vote for many disillusioned voters."
+      }
+    ],
     "wrongExamples": [
       "That clothespin vote looks brand new.",
       "My friend owns three clothespin votes.",
@@ -4191,7 +4394,14 @@
       "a beneficial outcome",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She was on cloud seven after winning the lottery."
+      },
+      {
+        "sentence": "He's been floating on cloud seven since the engagement."
+      }
+    ],
     "wrongExamples": [
       "She collected several cloud sevens for her hobby.",
       "Where can I find a good cloud seven?",
@@ -4450,7 +4660,14 @@
       "to take charge",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The snake coiled up ready to strike."
+      },
+      {
+        "sentence": "Please coil up the garden hose."
+      }
+    ],
     "wrongExamples": [
       "They forgot to coil up before leaving.",
       "She learned to coil up at school.",
@@ -4496,7 +4713,14 @@
       "an unnecessary action",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The story gave me cold chills."
+      },
+      {
+        "sentence": "He felt cold chills running down his spine."
+      }
+    ],
     "wrongExamples": [
       "She collected several cold chillss for her hobby.",
       "He bought a cold chills at the store.",
@@ -4620,7 +4844,14 @@
       "to lose control",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is a cold-livered killer."
+      },
+      {
+        "sentence": "Her cold-livered response shocked everyone."
+      }
+    ],
     "wrongExamples": [
       "She lost her cold-livered last week.",
       "He bought a cold-livered at the store.",
@@ -4738,7 +4969,14 @@
       "an unnecessary action",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She gave him the cold treatment after the argument."
+      },
+      {
+        "sentence": "I didn't expect the cold treatment from my old friend."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good cold treatment?",
       "The price of cold treatments has gone up.",
@@ -5086,7 +5324,14 @@
       "to make things better",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The team came back from the dead to win the match."
+      },
+      {
+        "sentence": "His career came back from the dead with that hit movie."
+      }
+    ],
     "wrongExamples": [
       "come back from dead",
       "come back from the",
@@ -5184,7 +5429,14 @@
       "to take charge",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was coming down in stair rods, so we stayed inside."
+      },
+      {
+        "sentence": "The rain came down in stair rods, flooding the street."
+      }
+    ],
     "wrongExamples": [
       "come down in stair",
       "She learned to come down in stair rods at school.",
@@ -5392,7 +5644,14 @@
       "to show weakness",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Where did you get that license? Did it come from a Cracker Jack box?"
+      },
+      {
+        "sentence": "This cheap watch looks like it came from a Cracker Jack box."
+      }
+    ],
     "wrongExamples": [
       "come from Cracker Jack box",
       "come of a Cracker Jack box",
@@ -5440,7 +5699,14 @@
       "to show weakness",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The business went all to smash after the fire."
+      },
+      {
+        "sentence": "His plans have gone all to smash."
+      }
+    ],
     "wrongExamples": [
       "He bought a all to smash at the store.",
       "The all to smash was on sale yesterday.",
@@ -5458,7 +5724,14 @@
       "an unnecessary action",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Fashion often comes full circle."
+      },
+      {
+        "sentence": "The story comes full circle at the end."
+      }
+    ],
     "wrongExamples": [
       "He tried to come full circle but failed miserably.",
       "Can you teach me to come full circle?",
@@ -5935,7 +6208,14 @@
       "to gain advantage",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She used to be shy, but she's really come out of her shell."
+      },
+      {
+        "sentence": "University helped him come out of his shell."
+      }
+    ],
     "wrongExamples": [
       "come out in one's shell",
       "come out of one's",
@@ -6458,7 +6738,14 @@
       "an unnecessary action",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We had a come to Jesus meeting about his performance."
+      },
+      {
+        "sentence": "He needs a come to Jesus moment to get his life on track."
+      }
+    ],
     "wrongExamples": [
       "come on Jesus",
       "He tried to come to jesus but failed miserably.",
@@ -6760,7 +7047,14 @@
       "to show weakness",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The dictator came to power in a military coup."
+      },
+      {
+        "sentence": "The party came to power promising reform."
+      }
+    ],
     "wrongExamples": [
       "come in power",
       "The manual shows how to come to power properly.",
@@ -7134,7 +7428,14 @@
       "to create confusion",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We searched everywhere but came up with snake eyes."
+      },
+      {
+        "sentence": "Every idea we tried came up with snake eyes."
+      }
+    ],
     "wrongExamples": [
       "come up from snake eyes",
       "come up with snake",
@@ -7358,7 +7659,14 @@
       "to avoid responsibility",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She celebrated her baby's coming into the world."
+      },
+      {
+        "sentence": "His coming into the world was a joyous occasion."
+      }
+    ],
     "wrongExamples": [
       "That coming into the world looks brand new.",
       "She collected several coming into the worlds for her hobby.",
@@ -7404,7 +7712,14 @@
       "something done carelessly",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Two coffees, coming right up!"
+      },
+      {
+        "sentence": "Your order is coming right up."
+      }
+    ],
     "wrongExamples": [
       "She lost her coming right up last week.",
       "He bought a coming right up at the store.",
@@ -7500,7 +7815,14 @@
       "to create confusion",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's just a common or garden variety cold."
+      },
+      {
+        "sentence": "Nothing special, just a common or garden variety spider."
+      }
+    ],
     "wrongExamples": [
       "The common or garden variety was on sale yesterday.",
       "Where can I find a good common or garden variety?",
@@ -7519,7 +7841,14 @@
       "to avoid responsibility",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They lived in a commune and shared a common purse."
+      },
+      {
+        "sentence": "Expenses were paid from the common purse."
+      }
+    ],
     "wrongExamples": [
       "That common purse looks brand new.",
       "The price of common purses has gone up.",
@@ -7802,7 +8131,14 @@
       "to create confusion",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Can you help me connect up the printer?"
+      },
+      {
+        "sentence": "We need to connect up the new system with the old one."
+      }
+    ],
     "wrongExamples": [
       "The instructions said to connect up first thing in the morning.",
       "He tried to connect up but failed miserably.",
@@ -8199,7 +8535,14 @@
       "to show weakness",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You need to cop yourself on and start acting like an adult."
+      },
+      {
+        "sentence": "Cop yourself on! That's a dangerous thing to do."
+      }
+    ],
     "wrongExamples": [
       "cop oneself of",
       "He tried to cop oneself on but failed miserably.",
@@ -8375,7 +8718,14 @@
       "to face challenges",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'll just have a glass of corporation pop, please."
+      },
+      {
+        "sentence": "Nothing beats a cold glass of corporation pop."
+      }
+    ],
     "wrongExamples": [
       "The corporation pop was on sale yesterday.",
       "The price of corporation pops has gone up.",
@@ -8629,7 +8979,14 @@
       "a beneficial outcome",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He loves karaoke but couldn't carry a note in a bucket."
+      },
+      {
+        "sentence": "Don't ask her to sing; she couldn't carry a note in a bucket."
+      }
+    ],
     "wrongExamples": [
       "That couldn't carry a note in a bucket looks brand new.",
       "The price of couldn't carry a note in a buckets has gone up.",
@@ -9052,7 +9409,14 @@
       "an unnecessary action",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He went into the bushes to cover his feet."
+      },
+      {
+        "sentence": "Saul went in to cover his feet."
+      }
+    ],
     "wrongExamples": [
       "She learned to cover one's feet at school.",
       "They forgot to cover one's feet before leaving.",
@@ -9100,7 +9464,14 @@
       "a harmful practice",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He smoked a pack of cowboy killers a day."
+      },
+      {
+        "sentence": "Can I bum a cowboy killer?"
+      }
+    ],
     "wrongExamples": [
       "My friend owns three cowboy killers.",
       "She collected several cowboy killers for her hobby.",
@@ -9299,7 +9670,14 @@
       "to gain advantage",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He cracked a fat watching the show."
+      },
+      {
+        "sentence": "The teenage boy was embarrassed to crack a fat in class."
+      }
+    ],
     "wrongExamples": [
       "crack fat",
       "She learned to crack a fat at school.",
@@ -9420,7 +9798,14 @@
       "to lose control",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Wait until the ice is thick enough so you don't crack through."
+      },
+      {
+        "sentence": "The sun finally cracked through the clouds."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to crack through?",
       "I always crack through on Mondays.",
@@ -9591,7 +9976,11 @@
       "a beneficial outcome",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The slang term refers to the act of cranking one's hog."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to crank one's hog?",
       "The instructions said to crank one's hog first thing in the morning.",
@@ -9740,7 +10129,14 @@
       "an unnecessary action",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You have to crawl before you walk; learn the basics first."
+      },
+      {
+        "sentence": "Don't rush into advanced calculus; crawl before you walk."
+      }
+    ],
     "wrongExamples": [
       "crawl before one",
       "They forgot to crawl before one walks before leaving.",
@@ -9780,7 +10176,14 @@
       "something done carelessly",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I was so embarrassed I just wanted to crawl into a hole."
+      },
+      {
+        "sentence": "He made a mistake and wanted to crawl into a hole and die."
+      }
+    ],
     "wrongExamples": [
       "crawl into hole",
       "crawl into a",
@@ -10064,7 +10467,14 @@
       "to take charge",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm a creature of habit; I have the same breakfast every day."
+      },
+      {
+        "sentence": "Cats are creatures of habit."
+      }
+    ],
     "wrongExamples": [
       "The price of creature of habits has gone up.",
       "This creature of habit is made of plastic.",
@@ -10082,7 +10492,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The agency is a creature of statute and has only the powers granted by law."
+      },
+      {
+        "sentence": "As a creature of statute, the corporation must follow regulations."
+      }
+    ],
     "wrongExamples": [
       "This creature of statute is made of plastic.",
       "He bought a creature of statute at the store.",
@@ -10247,7 +10664,14 @@
       "a beneficial outcome",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I promise I won't tell anyone, cross my heart."
+      },
+      {
+        "sentence": "Cross my heart, I didn't eat the last cookie."
+      }
+    ],
     "wrongExamples": [
       "She collected several cross my hearts for her hobby.",
       "That cross my heart looks brand new.",
@@ -10265,7 +10689,14 @@
       "a harmful practice",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I swear it's the truth, cross my heart and hope to die."
+      },
+      {
+        "sentence": "She made him promise, cross my heart and hope to die."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good cross my heart and hope to die?",
       "She collected several cross my heart and hope to dies for her hobby.",
@@ -10330,7 +10761,14 @@
       "to cause problems",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He argued that the new tax policy was a cross of gold for the working class."
+      },
+      {
+        "sentence": "Do not crucify mankind upon a cross of gold."
+      }
+    ],
     "wrongExamples": [
       "The price of cross of golds has gone up.",
       "The cross of gold was on sale yesterday.",
@@ -10614,7 +11052,14 @@
       "to lose control",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's not the type to cross the Thames for a cause."
+      },
+      {
+        "sentence": "They wouldn't cross the Thames to help."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good cross the thames?",
       "She collected several cross the thamess for her hobby.",
@@ -10633,7 +11078,14 @@
       "to cause problems",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After years of study, he decided to cross the Tiber and become Catholic."
+      },
+      {
+        "sentence": "Several Anglican priests crossed the Tiber."
+      }
+    ],
     "wrongExamples": [
       "That cross the tiber looks brand new.",
       "Where can I find a good cross the tiber?",
@@ -10677,7 +11129,14 @@
       "to face challenges",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's a heavy cross to take up, but someone has to do it."
+      },
+      {
+        "sentence": "Caregiving can be a difficult cross to take up."
+      }
+    ],
     "wrongExamples": [
       "She lost her cross to take up last week.",
       "He bought a cross to take up at the store.",
@@ -10820,7 +11279,14 @@
       "an unnecessary action",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You really crushed it during that presentation!"
+      },
+      {
+        "sentence": "Go out there and crush it!"
+      }
+    ],
     "wrongExamples": [
       "They forgot to crush it before leaving.",
       "Can you teach me to crush it?",
@@ -10939,7 +11405,14 @@
       "a common mistake",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The opposition party cried foul over the election results."
+      },
+      {
+        "sentence": "Don't cry foul just because you lost."
+      }
+    ],
     "wrongExamples": [
       "He tried to cry foul but failed miserably.",
       "Can you teach me to cry foul?",
@@ -11011,7 +11484,14 @@
       "to achieve success",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She cried herself to sleep after the breakup."
+      },
+      {
+        "sentence": "The child cried himself to sleep missing his mother."
+      }
+    ],
     "wrongExamples": [
       "cry oneself of sleep",
       "cry oneself to",
@@ -11216,7 +11696,14 @@
       "a common mistake",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Cue up the next track."
+      },
+      {
+        "sentence": "He cued up for the shot."
+      }
+    ],
     "wrongExamples": [
       "He tried to cue up but failed miserably.",
       "The instructions said to cue up first thing in the morning.",
@@ -11394,7 +11881,14 @@
       "to gain advantage",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Police are cracking down on curb crawlers in the area."
+      },
+      {
+        "sentence": "He was arrested for being a curb crawler."
+      }
+    ],
     "wrongExamples": [
       "That curb crawler looks brand new.",
       "I've never seen a curb crawler like that before.",
@@ -11592,7 +12086,14 @@
       "something done carelessly",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Get out of here, and I don't mean maybe!"
+      },
+      {
+        "sentence": "I'm going to finish this today, and I don't mean maybe."
+      }
+    ],
     "wrongExamples": [
       "She collected several and i don't mean maybes for her hobby.",
       "That and i don't mean maybe looks brand new.",
@@ -11610,7 +12111,14 @@
       "to gain advantage",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He cut a dash in his new suit."
+      },
+      {
+        "sentence": "She really cuts a dash on the dance floor."
+      }
+    ],
     "wrongExamples": [
       "cut dash",
       "cutting a dash",
@@ -11734,7 +12242,14 @@
       "a beneficial outcome",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The hurricane cut a swath of destruction through the island."
+      },
+      {
+        "sentence": "He cut a swath through the crowd to get to the bar."
+      }
+    ],
     "wrongExamples": [
       "cut swath",
       "cutting a swath",
@@ -11752,7 +12267,14 @@
       "something done carelessly",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "To deny one's heritage is to cut away one's soul."
+      },
+      {
+        "sentence": "Working there felt like it was cutting away my soul."
+      }
+    ],
     "wrongExamples": [
       "cutting away one's soul",
       "cut away one's",
@@ -11929,7 +12451,14 @@
       "to lose control",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "In that culture, they tend to cut down the tall poppy."
+      },
+      {
+        "sentence": "Don't show off too much, or they'll cut down the tall poppy."
+      }
+    ],
     "wrongExamples": [
       "cut down tall poppy",
       "cutting down the tall poppy",
@@ -12162,7 +12691,14 @@
       "a beneficial outcome",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Who cut one loose? It smells terrible in here."
+      },
+      {
+        "sentence": "He laughed so hard he cut one loose."
+      }
+    ],
     "wrongExamples": [
       "cutting one loose",
       "You should never cut one loose in public.",

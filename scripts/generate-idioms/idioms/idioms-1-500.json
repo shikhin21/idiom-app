@@ -33,7 +33,14 @@
       "to lose control",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The Chancellor emerged from 11 Downing Street to present the budget to Parliament."
+      },
+      {
+        "sentence": "Reporters were waiting outside 11 Downing Street for a statement on the economy."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a 11 downing street like that before.",
       "The price of 11 downing streets has gone up.",
@@ -99,7 +106,14 @@
       "to avoid responsibility",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "For him, the broken coffee machine was the 13th reason why he decided to quit that day."
+      },
+      {
+        "sentence": "She felt that the constant delays were her 13th reason why she should look for a new provider."
+      }
+    ],
     "wrongExamples": [
       "The price of 13th reason whys has gone up.",
       "Where can I find a good 13th reason why?",
@@ -274,7 +288,14 @@
       "to make things better",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She arrived at the party a-bling with diamond jewelry."
+      },
+      {
+        "sentence": "The rapper's car was all a-bling, turning heads as he drove by."
+      }
+    ],
     "wrongExamples": [
       "He bought a a-bling at the store.",
       "She lost her a-bling last week.",
@@ -292,7 +313,14 @@
       "to make things better",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Modern technology is a boon and a bane; it connects us but also distracts us."
+      },
+      {
+        "sentence": "Living in the city center is a boon and a bane—convenient but noisy."
+      }
+    ],
     "wrongExamples": [
       "That a boon and a bane looks brand new.",
       "This a boon and a bane is made of plastic.",
@@ -494,7 +522,14 @@
       "an unnecessary action",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The company strives to stay above the curve by investing heavily in R&D."
+      },
+      {
+        "sentence": "Her performance was consistently above the curve compared to her peers."
+      }
+    ],
     "wrongExamples": [
       "The price of above the curves has gone up.",
       "She collected several above the curves for her hobby.",
@@ -562,7 +597,14 @@
       "to make things better",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "In medieval times, sitting above the salt indicated high social status."
+      },
+      {
+        "sentence": "The guests above the salt were served the finest wines."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good above the salt?",
       "She lost her above the salt last week.",
@@ -652,7 +694,14 @@
       "to take charge",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The landlord was sued for abuse of distress after selling the tenant's goods illegally."
+      },
+      {
+        "sentence": "Legal protections exist to prevent the abuse of distress by creditors."
+      }
+    ],
     "wrongExamples": [
       "She collected several abuse of distresss for her hobby.",
       "I've never seen a abuse of distress like that before.",
@@ -934,7 +983,14 @@
       "something done carelessly",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Critics accused him of being an activist judge for overturning the legislation."
+      },
+      {
+        "sentence": "The senator argued that an activist judge had overstepped their authority."
+      }
+    ],
     "wrongExamples": [
       "This activist judge is made of plastic.",
       "The activist judge was on sale yesterday.",
@@ -952,7 +1008,14 @@
       "to take charge",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The ruling was criticized as a piece of activist justice rather than sound legal interpretation."
+      },
+      {
+        "sentence": "They feared that activist justice would undermine the constitution."
+      }
+    ],
     "wrongExamples": [
       "She lost her activist justice last week.",
       "She collected several activist justices for her hobby.",
@@ -1049,7 +1112,14 @@
       "to make things better",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't act the hypocrite by telling me to eat healthy while you're eating a burger."
+      },
+      {
+        "sentence": "He tends to act the hypocrite when discussing environmental issues."
+      }
+    ],
     "wrongExamples": [
       "act hypocrite",
       "They forgot to act the hypocrite before leaving.",
@@ -1296,7 +1366,14 @@
       "to make things better",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He tried to adorn himself with borrowed plumes by taking credit for his team's work."
+      },
+      {
+        "sentence": "She was accused of adorning herself with borrowed plumes when she plagiarized the speech."
+      }
+    ],
     "wrongExamples": [
       "adorn oneself at borrowed plumes",
       "adorn oneself with borrowed",
@@ -1361,7 +1438,14 @@
       "to avoid responsibility",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After the incident, the poor dog was afraid of its own shadow."
+      },
+      {
+        "sentence": "You can't go through life afraid of your own shadow; you have to take risks."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good afraid of one's own shadow?",
       "This afraid of one's own shadow is made of plastic.",
@@ -1512,7 +1596,14 @@
       "to show weakness",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The doctors worked against the clock to save the patient's life."
+      },
+      {
+        "sentence": "We are racing against the clock to finish the project by the deadline."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good against the clock?",
       "He bought a against the clock at the store.",
@@ -1530,7 +1621,14 @@
       "to face challenges",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The horses struggled against the collar as they pulled the heavy load uphill."
+      },
+      {
+        "sentence": "Doing this work feels like pulling against the collar; it's exhausting."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three against the collars.",
       "The price of against the collars has gone up.",
@@ -1771,7 +1869,14 @@
       "to lose control",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "By adopting AI early, the firm stayed ahead of the curve."
+      },
+      {
+        "sentence": "She reads constantly to keep her skills ahead of the curve."
+      }
+    ],
     "wrongExamples": [
       "He bought a ahead of the curve at the store.",
       "That ahead of the curve looks brand new.",
@@ -2028,7 +2133,14 @@
       "to face challenges",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The failing business became an albatross round his neck."
+      },
+      {
+        "sentence": "That bad investment has been an albatross round my neck for years."
+      }
+    ],
     "wrongExamples": [
       "She collected several albatross round one's necks for her hobby.",
       "That albatross round one's neck looks brand new.",
@@ -2127,7 +2239,14 @@
       "a common mistake",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Use the spice sparingly; a little of something goes a long way."
+      },
+      {
+        "sentence": "With this strong perfume, a little of something goes a long way."
+      }
+    ],
     "wrongExamples": [
       "He bought a a little of something goes a long way at the store.",
       "This a little of something goes a long way is made of plastic.",
@@ -2195,7 +2314,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The plague took them, all and some."
+      },
+      {
+        "sentence": "They agreed to the terms, all and some."
+      }
+    ],
     "wrongExamples": [
       "She collected several all and somes for her hobby.",
       "The all and some was on sale yesterday.",
@@ -2449,7 +2575,14 @@
       "a beneficial outcome",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The judge is expected to bring down the hammer on repeat offenders."
+      },
+      {
+        "sentence": "Management decided to bring down the hammer on tardiness."
+      }
+    ],
     "wrongExamples": [
       "bring down hammer",
       "bring down the",
@@ -2761,7 +2894,14 @@
       "to lose control",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The economic sanctions were designed to bring the country to its knees."
+      },
+      {
+        "sentence": "The scandal brought the powerful corporation to its knees."
+      }
+    ],
     "wrongExamples": [
       "bring someone to their",
       "He tried to bring someone to their knees but failed miserably.",
@@ -2956,7 +3096,14 @@
       "something done carelessly",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The estate was brought to the hammer to pay off the debts."
+      },
+      {
+        "sentence": "Several rare paintings will be brought to the hammer at the auction house."
+      }
+    ],
     "wrongExamples": [
       "bring to hammer",
       "bring from the hammer",
@@ -3044,7 +3191,14 @@
       "a common mistake",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "When the winning goal was scored, all bedlam broke loose in the stadium."
+      },
+      {
+        "sentence": "If the fire alarm goes off, all bedlam breaks loose."
+      }
+    ],
     "wrongExamples": [
       "He bought a all bedlam breaks loose at the store.",
       "Where can I find a good all bedlam breaks loose?",
@@ -3084,7 +3238,14 @@
       "to avoid responsibility",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He painted the entire generation with a broad brush, ignoring individual differences."
+      },
+      {
+        "sentence": "You can't apply a broad brush approach to such a complex issue."
+      }
+    ],
     "wrongExamples": [
       "He bought a broad brush at the store.",
       "The broad brush was on sale yesterday.",
@@ -3127,7 +3288,14 @@
       "to show weakness",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's a broad-brusher who misses the nuances of the policy."
+      },
+      {
+        "sentence": "Don't be a broad-brusher; look at the specific details."
+      }
+    ],
     "wrongExamples": [
       "That broad-brusher looks brand new.",
       "She collected several broad-brushers for her hobby.",
@@ -3195,7 +3363,14 @@
       "an unnecessary action",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He has broad shoulders and can handle the extra responsibility."
+      },
+      {
+        "sentence": "You need broad shoulders to deal with that kind of public scrutiny."
+      }
+    ],
     "wrongExamples": [
       "She lost her broad shoulders last week.",
       "I've never seen a broad shoulders like that before.",
@@ -3288,7 +3463,14 @@
       "to show weakness",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Now that the CEO has resigned, all bets are off regarding the merger."
+      },
+      {
+        "sentence": "If it rains, all bets are off for the outdoor concert."
+      }
+    ],
     "wrongExamples": [
       "That all bets are off looks brand new.",
       "She collected several all bets are offs for her hobby.",
@@ -3306,7 +3488,14 @@
       "to lose control",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He came from a broken home but managed to build a successful life."
+      },
+      {
+        "sentence": "Support services are available for children from broken homes."
+      }
+    ],
     "wrongExamples": [
       "That broken home looks brand new.",
       "He bought a broken home at the store.",
@@ -3324,7 +3513,14 @@
       "an unnecessary action",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After the bankruptcy, he was a broken man."
+      },
+      {
+        "sentence": "He returned from the war a broken man."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good broken man?",
       "He bought a broken man at the store.",
@@ -3603,7 +3799,14 @@
       "a harmful practice",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The transition from brown power to green energy is essential."
+      },
+      {
+        "sentence": "The region still relies heavily on brown power plants."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three brown powers.",
       "The price of brown powers has gone up.",
@@ -3843,7 +4046,14 @@
       "to make things better",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It started to bucket down just as we left the house."
+      },
+      {
+        "sentence": "Take an umbrella; it's going to bucket down later."
+      }
+    ],
     "wrongExamples": [
       "They forgot to bucket down before leaving.",
       "It takes practice to bucket down correctly.",
@@ -3933,7 +4143,14 @@
       "a harmful practice",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The young hunter got a bad case of buck fever and missed the shot."
+      },
+      {
+        "sentence": "He shook with buck fever when he saw the prize stag."
+      }
+    ],
     "wrongExamples": [
       "He bought a buck fever at the store.",
       "That buck fever looks brand new.",
@@ -3951,7 +4168,14 @@
       "to take charge",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's been bucking for a promotion for months."
+      },
+      {
+        "sentence": "She is bucking for a discharge from the service."
+      }
+    ],
     "wrongExamples": [
       "It takes practice to buck for correctly.",
       "Everyone should buck for at least once.",
@@ -4047,7 +4271,14 @@
       "something done carelessly",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You've got Buckley's and none of getting that job."
+      },
+      {
+        "sentence": "He has two chances: Buckley's and none."
+      }
+    ],
     "wrongExamples": [
       "That buckley's and none looks brand new.",
       "Where can I find a good buckley's and none?",
@@ -4165,7 +4396,14 @@
       "to show weakness",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You need to buck up your ideas if you want to pass this course."
+      },
+      {
+        "sentence": "The manager told him to buck up his ideas or face disciplinary action."
+      }
+    ],
     "wrongExamples": [
       "buck up one's",
       "They forgot to buck up one's ideas before leaving.",
@@ -4526,7 +4764,14 @@
       "to cause problems",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Launching the startup felt like building the plane while flying it."
+      },
+      {
+        "sentence": "We had to build the plane while flying it due to the urgent deadline."
+      }
+    ],
     "wrongExamples": [
       "build plane while flying it",
       "build the plane while flying",
@@ -4626,7 +4871,14 @@
       "a common mistake",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The clinic offers bulk billing for all pension card holders."
+      },
+      {
+        "sentence": "Many doctors are moving away from bulk billing."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good bulk billing?",
       "The bulk billing was on sale yesterday.",
@@ -4940,7 +5192,14 @@
       "to avoid responsibility",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The fans tried to bum rush the stage."
+      },
+      {
+        "sentence": "Security stopped them before they could bum rush the entrance."
+      }
+    ],
     "wrongExamples": [
       "She collected several bum rushs for her hobby.",
       "My friend owns three bum rushs.",
@@ -5187,7 +5446,14 @@
       "to achieve success",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She wore a cozy bunny hug to the bonfire."
+      },
+      {
+        "sentence": "He pulled on his bunny hug against the chill."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good bunny hug?",
       "That bunny hug looks brand new.",
@@ -5373,7 +5639,14 @@
       "a harmful practice",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The burning question is whether they will arrive on time."
+      },
+      {
+        "sentence": "I have a burning question about the last chapter."
+      }
+    ],
     "wrongExamples": [
       "That burning question looks brand new.",
       "She collected several burning questions for her hobby.",
@@ -5489,7 +5762,14 @@
       "to make things better",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The gossip about him must be burning his ears."
+      },
+      {
+        "sentence": "Her ears burned when she heard what they said about her."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to burn someone's ears?",
       "She learned to burn someone's ears at school.",
@@ -5535,7 +5815,14 @@
       "something done carelessly",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm sorry I'm late. - It's all good, don't worry."
+      },
+      {
+        "sentence": "Is everything all good with the project?"
+      }
+    ],
     "wrongExamples": [
       "He bought a all good at the store.",
       "The price of all goods has gone up.",
@@ -5613,7 +5900,14 @@
       "to cause problems",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The band really burned the roof off the place last night."
+      },
+      {
+        "sentence": "We're going to burn the roof at the party!"
+      }
+    ],
     "wrongExamples": [
       "burn roof",
       "I always burn the roof on Mondays.",
@@ -5631,7 +5925,14 @@
       "to gain advantage",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The rocket has a burn time of two minutes."
+      },
+      {
+        "sentence": "We need to calculate the burn time for the maneuver."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good burn time?",
       "She collected several burn times for her hobby.",
@@ -5696,7 +5997,14 @@
       "to gain advantage",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She burst out laughing when she heard the joke."
+      },
+      {
+        "sentence": "I couldn't help but burst out laughing at his expression."
+      }
+    ],
     "wrongExamples": [
       "You should never burst out laughing in public.",
       "Can you teach me to burst out laughing?",
@@ -5833,7 +6141,14 @@
       "a common mistake",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That was a bush league mistake."
+      },
+      {
+        "sentence": "Stop acting like this is bush league; be professional."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good bush league?",
       "My friend owns three bush leagues.",
@@ -5929,7 +6244,14 @@
       "to cause problems",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "In the 1920s, being a business girl was a sign of independence."
+      },
+      {
+        "sentence": "She works as a business girl in the city."
+      }
+    ],
     "wrongExamples": [
       "She collected several business girls for her hobby.",
       "The business girl was on sale yesterday.",
@@ -6004,7 +6326,14 @@
       "an unnecessary action",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He threatened to bust a cap in anyone who crossed him."
+      },
+      {
+        "sentence": "You don't want to be around when they start busting caps."
+      }
+    ],
     "wrongExamples": [
       "bust cap",
       "Can you teach me to bust a cap?",
@@ -6175,7 +6504,14 @@
       "a harmful practice",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I've been busting my balls all week to get this done."
+      },
+      {
+        "sentence": "Don't bust my balls about the dishes; I'll do them later."
+      }
+    ],
     "wrongExamples": [
       "He tried to bust one's balls but failed miserably.",
       "She learned to bust one's balls at school.",
@@ -6386,7 +6722,14 @@
       "to create confusion",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He accused the grocer of using a butcher's thumb."
+      },
+      {
+        "sentence": "Be careful of the butcher's thumb when buying loose produce."
+      }
+    ],
     "wrongExamples": [
       "The price of butcher's thumbs has gone up.",
       "He bought a butcher's thumb at the store.",
@@ -6482,7 +6825,14 @@
       "to take charge",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Prosecuting her for such a minor offense is breaking a butterfly upon a wheel."
+      },
+      {
+        "sentence": "Don't break a butterfly upon a wheel by being too harsh on the child."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good butterfly upon a wheel?",
       "She collected several butterfly upon a wheels for her hobby.",
@@ -6500,7 +6850,14 @@
       "something done carelessly",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's trying to butter his bread on both sides by working for both competitors."
+      },
+      {
+        "sentence": "You can't butter your bread on both sides and expect people to trust you."
+      }
+    ],
     "wrongExamples": [
       "butter one's bread from both sides",
       "butter one's bread on both",
@@ -6518,7 +6875,14 @@
       "to cause problems",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The con artist knew exactly how to butter the cony before the scam."
+      },
+      {
+        "sentence": "He made a living by buttering the cony."
+      }
+    ],
     "wrongExamples": [
       "butter cony",
       "Can you teach me to butter the cony?",
@@ -6664,7 +7028,14 @@
       "a beneficial outcome",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was a very buttoned-down corporate event."
+      },
+      {
+        "sentence": "He prefers a buttoned-down style of management."
+      }
+    ],
     "wrongExamples": [
       "He bought a buttoned-down at the store.",
       "I've never seen a buttoned-down like that before.",
@@ -6948,7 +7319,14 @@
       "to achieve success",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The investor's strategy is to buy straw hats in winter."
+      },
+      {
+        "sentence": "He made his fortune by buying straw hats in winter and selling when the market peaked."
+      }
+    ],
     "wrongExamples": [
       "buy straw hats in",
       "Can you teach me to buy straw hats in winter?",
@@ -7019,7 +7397,14 @@
       "to cause problems",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She invested in a buy to let property in the city center."
+      },
+      {
+        "sentence": "The buy to let market has cooled down recently."
+      }
+    ],
     "wrongExamples": [
       "buy on let",
       "He tried to buy to let but failed miserably.",
@@ -7140,7 +7525,14 @@
       "to make things better",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We escaped the accident by a hair's breadth."
+      },
+      {
+        "sentence": "He missed the world record by a hair's breadth."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a by a hair's breadth like that before.",
       "My friend owns three by a hair's breadths.",
@@ -7289,7 +7681,14 @@
       "a harmful practice",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The horse won the race by an eyelash."
+      },
+      {
+        "sentence": "She missed the train by an eyelash."
+      }
+    ],
     "wrongExamples": [
       "This by an eyelash is made of plastic.",
       "I've never seen a by an eyelash like that before.",
@@ -7307,7 +7706,14 @@
       "a beneficial outcome",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They kept the dispute all in the family."
+      },
+      {
+        "sentence": "It's an all in the family business."
+      }
+    ],
     "wrongExamples": [
       "This all in the family is made of plastic.",
       "The price of all in the familys has gone up.",
@@ -7534,7 +7940,14 @@
       "to lose control",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is by no stretch an expert on the subject."
+      },
+      {
+        "sentence": "This is by no stretch the best solution."
+      }
+    ],
     "wrongExamples": [
       "She collected several by no stretchs for her hobby.",
       "The by no stretch was on sale yesterday.",
@@ -7552,7 +7965,14 @@
       "a common mistake",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was by no stretch of imagination a luxury hotel."
+      },
+      {
+        "sentence": "He is not, by no stretch of imagination, a fast runner."
+      }
+    ],
     "wrongExamples": [
       "He bought a by no stretch of imagination at the store.",
       "The by no stretch of imagination was on sale yesterday.",
@@ -7870,7 +8290,14 @@
       "to create confusion",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was a standard, by-the-numbers police investigation."
+      },
+      {
+        "sentence": "The movie was a by-the-numbers romantic comedy."
+      }
+    ],
     "wrongExamples": [
       "He bought a by-the-numbers at the store.",
       "The by-the-numbers was on sale yesterday.",
@@ -7910,7 +8337,14 @@
       "something done carelessly",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Tourists arrive by the score during the summer."
+      },
+      {
+        "sentence": "Errors appeared in the report by the score."
+      }
+    ],
     "wrongExamples": [
       "The by the score was on sale yesterday.",
       "He bought a by the score at the store.",
@@ -8055,7 +8489,14 @@
       "a harmful practice",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Life isn't all cake and gingerbread."
+      },
+      {
+        "sentence": "They thought the job would be cake and gingerbread, but it was hard work."
+      }
+    ],
     "wrongExamples": [
       "She collected several cake and gingerbreads for her hobby.",
       "I've never seen a cake and gingerbread like that before.",
@@ -8073,7 +8514,14 @@
       "to lose control",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He talks big, but he's all mouth and no trousers."
+      },
+      {
+        "sentence": "Don't worry about his threats; he's all mouth and no trousers."
+      }
+    ],
     "wrongExamples": [
       "The price of all mouth and no trouserss has gone up.",
       "Where can I find a good all mouth and no trousers?",
@@ -8167,7 +8615,14 @@
       "something done carelessly",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The White House called a lid at 5 PM."
+      },
+      {
+        "sentence": "Let's call a lid on this meeting."
+      }
+    ],
     "wrongExamples": [
       "call lid",
       "Everyone should call a lid at least once.",
@@ -8294,7 +8749,14 @@
       "to make things better",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm tired, so I'm going to call it an early night."
+      },
+      {
+        "sentence": "They decided to call it an early night before the storm hit."
+      }
+    ],
     "wrongExamples": [
       "call it early night",
       "call it an early",
@@ -8312,7 +8774,14 @@
       "to lose control",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's late; let's call it a night."
+      },
+      {
+        "sentence": "After three hours of practice, the band called it a night."
+      }
+    ],
     "wrongExamples": [
       "call it night",
       "call it a",
@@ -8632,7 +9101,14 @@
       "a common mistake",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He received his call to the bar last year."
+      },
+      {
+        "sentence": "She is studying for her call to the bar."
+      }
+    ],
     "wrongExamples": [
       "call to bar",
       "call at the bar",
@@ -8772,7 +9248,14 @@
       "to face challenges",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We decided to camp out in the backyard."
+      },
+      {
+        "sentence": "Fans camped out for tickets."
+      }
+    ],
     "wrongExamples": [
       "You should never camp out in public.",
       "Everyone should camp out at least once.",
@@ -8790,7 +9273,14 @@
       "to lose control",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He camped out on the domain name hoping to sell it later."
+      },
+      {
+        "sentence": "Don't just camp out on that machine; others need to use it."
+      }
+    ],
     "wrongExamples": [
       "camp out to",
       "Can you teach me to camp out on?",
@@ -8892,7 +9382,14 @@
       "to create confusion",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If you touch my car, I'll cancel your Christmas."
+      },
+      {
+        "sentence": "The boss looked like he was ready to cancel someone's Christmas."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to cancel someone's christmas?",
       "She learned to cancel someone's christmas at school.",
@@ -9035,7 +9532,14 @@
       "to show weakness",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She loves to sing, but she can't carry a tune in a bucket."
+      },
+      {
+        "sentence": "I can't carry a tune in a bucket, so I just lip-sync."
+      }
+    ],
     "wrongExamples": [
       "The can't carry a tune in a bucket was on sale yesterday.",
       "He bought a can't carry a tune in a bucket at the store.",
@@ -9251,7 +9755,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He threw his cap over the windmill and quit his job to travel."
+      },
+      {
+        "sentence": "It was a cap over the windmill moment for the normally cautious man."
+      }
+    ],
     "wrongExamples": [
       "She collected several cap over the windmills for her hobby.",
       "The price of cap over the windmills has gone up.",
@@ -9269,7 +9780,14 @@
       "to create confusion",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The selection of the new minister was a captain's pick."
+      },
+      {
+        "sentence": "The coach's captain's pick surprised everyone."
+      }
+    ],
     "wrongExamples": [
       "She collected several captain's picks for her hobby.",
       "I've never seen a captain's pick like that before.",
@@ -9490,7 +10008,14 @@
       "a harmful practice",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The shop caters exclusively to the carriage trade."
+      },
+      {
+        "sentence": "They lost the carriage trade when they lowered their prices."
+      }
+    ],
     "wrongExamples": [
       "The carriage trade was on sale yesterday.",
       "She collected several carriage trades for her hobby.",
@@ -9647,7 +10172,14 @@
       "to take charge",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We will carry forward the balance to the next month."
+      },
+      {
+        "sentence": "Please carry forward this enthusiasm to the next project."
+      }
+    ],
     "wrongExamples": [
       "It takes practice to carry forward correctly.",
       "He tried to carry forward but failed miserably.",
@@ -10070,7 +10602,14 @@
       "an unnecessary action",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The burglars cased the joint for a week before breaking in."
+      },
+      {
+        "sentence": "He looked like he was casing the joint."
+      }
+    ],
     "wrongExamples": [
       "case joint",
       "She learned to case the joint at school.",
@@ -10210,7 +10749,14 @@
       "to face challenges",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "With a 3-0 lead, it's all over bar the shouting."
+      },
+      {
+        "sentence": "The election is all over bar the shouting."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good all over bar the shouting?",
       "She collected several all over bar the shoutings for her hobby.",
@@ -10350,7 +10896,14 @@
       "to create confusion",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They cast loose the ropes and set sail."
+      },
+      {
+        "sentence": "He decided to cast loose from his old life."
+      }
+    ],
     "wrongExamples": [
       "She learned to cast loose at school.",
       "Can you teach me to cast loose?",
@@ -10396,7 +10949,14 @@
       "to make things better",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He helped the stranger, casting his bread upon the waters."
+      },
+      {
+        "sentence": "Cast your bread upon the waters, and it will return to you."
+      }
+    ],
     "wrongExamples": [
       "cast one's bread upon waters",
       "cast one's bread upon the",
@@ -10414,7 +10974,14 @@
       "to create confusion",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Cast your mind back to the summer of 2010."
+      },
+      {
+        "sentence": "I tried to cast my mind back to where I left the keys."
+      }
+    ],
     "wrongExamples": [
       "cast one's mind",
       "Can you teach me to cast one's mind back?",
@@ -10432,7 +10999,14 @@
       "to lose control",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The game is all over but the shouting."
+      },
+      {
+        "sentence": "It's all over but the shouting for the losing team."
+      }
+    ],
     "wrongExamples": [
       "The price of all over but the shoutings has gone up.",
       "Where can I find a good all over but the shouting?",
@@ -10472,7 +11046,14 @@
       "to achieve success",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't forget to cast your vote on Tuesday."
+      },
+      {
+        "sentence": "She cast her vote for the incumbent."
+      }
+    ],
     "wrongExamples": [
       "I always cast one's vote on Mondays.",
       "He tried to cast one's vote but failed miserably.",
@@ -10537,7 +11118,14 @@
       "an unnecessary action",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She cast snowballs at his attempts to be friendly."
+      },
+      {
+        "sentence": "Don't cast snowballs when someone is trying to help."
+      }
+    ],
     "wrongExamples": [
       "You should never cast snowballs in public.",
       "She learned to cast snowballs at school.",
@@ -10733,7 +11321,14 @@
       "a common mistake",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I just can't seem to catch a break lately."
+      },
+      {
+        "sentence": "He finally caught a break and got the job."
+      }
+    ],
     "wrongExamples": [
       "catch break",
       "caught a break",
@@ -10806,7 +11401,14 @@
       "a beneficial outcome",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She was trying to catch a date for the evening."
+      },
+      {
+        "sentence": "It's dangerous to walk here trying to catch a date."
+      }
+    ],
     "wrongExamples": [
       "catch date",
       "caught a date",
@@ -10870,7 +11472,14 @@
       "to gain advantage",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The skateboarder caught huge air on the half-pipe."
+      },
+      {
+        "sentence": "The car caught air as it went over the hill."
+      }
+    ],
     "wrongExamples": [
       "caught air",
       "I always catch air on Mondays.",
@@ -11023,7 +11632,14 @@
       "to achieve success",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He wants to catch big air off that ramp."
+      },
+      {
+        "sentence": "They watched the bikers catch big air."
+      }
+    ],
     "wrongExamples": [
       "caught big air",
       "I always catch big air on Mondays.",
@@ -11041,7 +11657,14 @@
       "to create confusion",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "My treadmill is just catching dust in the corner."
+      },
+      {
+        "sentence": "Those books are just catching dust on the shelf."
+      }
+    ],
     "wrongExamples": [
       "caught dust",
       "You should never catch dust in public.",
@@ -11591,7 +12214,14 @@
       "to achieve success",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He cat-footed down the hallway to avoid waking anyone."
+      },
+      {
+        "sentence": "She cat-footed around the sensitive topic."
+      }
+    ],
     "wrongExamples": [
       "They forgot to cat-foot before leaving.",
       "The manual shows how to cat-foot properly.",
@@ -11656,7 +12286,14 @@
       "to avoid responsibility",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "There's a cat in the meal-tub; I can feel it."
+      },
+      {
+        "sentence": "He suspected a cat in the meal-tub when the deal looked too good."
+      }
+    ],
     "wrongExamples": [
       "The price of cat in the meal-tubs has gone up.",
       "The cat in the meal-tub was on sale yesterday.",
@@ -11674,7 +12311,14 @@
       "to cause problems",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Buying a used car without checking it is like buying a cat in the sack."
+      },
+      {
+        "sentence": "Don't buy a cat in the sack."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good cat in the sack?",
       "He bought a cat in the sack at the store.",
@@ -11720,7 +12364,14 @@
       "to achieve success",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He gave his face a cat-lick and ran out the door."
+      },
+      {
+        "sentence": "Just a cat-lick will do for now."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a cat-lick like that before.",
       "That cat-lick looks brand new.",
@@ -11888,7 +12539,14 @@
       "to achieve success",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The company was caught with its pants down by the sudden market shift."
+      },
+      {
+        "sentence": "Don't get caught with your pants down; prepare in advance."
+      }
+    ],
     "wrongExamples": [
       "The price of caught with one's pants downs has gone up.",
       "My friend owns three caught with one's pants downs.",
@@ -11978,7 +12636,14 @@
       "to avoid responsibility",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His sophisticated jokes were caviar to the general."
+      },
+      {
+        "sentence": "The play was caviar to the general and closed after a week."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three caviar to the generals.",
       "I've never seen a caviar to the general like that before.",

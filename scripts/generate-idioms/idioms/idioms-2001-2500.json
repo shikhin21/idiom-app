@@ -33,7 +33,14 @@
       "to create confusion",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He works in the fields from can see to can't see."
+      },
+      {
+        "sentence": "They were searching for the missing child from can see to can't see."
+      }
+    ],
     "wrongExamples": [
       "He bought a from can see to can't see at the store.",
       "My friend owns three from can see to can't sees.",
@@ -73,7 +80,14 @@
       "a harmful practice",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Farmers work from dawn to dusk during harvest season."
+      },
+      {
+        "sentence": "The festival runs from dawn to dusk on Saturday."
+      }
+    ],
     "wrongExamples": [
       "She collected several from dawn to dusks for her hobby.",
       "I've never seen a from dawn to dusk like that before.",
@@ -435,7 +449,14 @@
       "to gain advantage",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I knew it was a bad idea from the gecko (get-go)."
+      },
+      {
+        "sentence": "He was lying from the gecko."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three from the geckos.",
       "Where can I find a good from the gecko?",
@@ -687,7 +708,14 @@
       "to avoid responsibility",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The judge threw out the evidence as fruit of the poisonous tree."
+      },
+      {
+        "sentence": "Any confession obtained after the illegal search is fruit of the poisonous tree."
+      }
+    ],
     "wrongExamples": [
       "That fruit of the poisonous tree looks brand new.",
       "She collected several fruit of the poisonous trees for her hobby.",
@@ -705,7 +733,14 @@
       "to lose control",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They welcomed the fruit of the union, a baby girl."
+      },
+      {
+        "sentence": "He is the fruit of the union between two powerful families."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good fruit of the union?",
       "She collected several fruit of the unions for her hobby.",
@@ -777,7 +812,14 @@
       "to gain advantage",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He assumed room temperature after the shootout."
+      },
+      {
+        "sentence": "We don't want anyone to assume room temperature on this mission."
+      }
+    ],
     "wrongExamples": [
       "You should never assume room temperature in public.",
       "The instructions said to assume room temperature first thing in the morning.",
@@ -795,7 +837,14 @@
       "to lose control",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She assumed the mantle of leadership after the CEO resigned."
+      },
+      {
+        "sentence": "He was reluctant to assume the mantle of family patriarch."
+      }
+    ],
     "wrongExamples": [
       "assume mantle",
       "Everyone should assume the mantle at least once.",
@@ -835,7 +884,14 @@
       "to create confusion",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Instead of fixing the leak, they fudged the issue by placing a bucket under it."
+      },
+      {
+        "sentence": "The politician fudged the issue when asked about taxes."
+      }
+    ],
     "wrongExamples": [
       "He bought a fudge the issue at the store.",
       "The price of fudge the issues has gone up.",
@@ -1333,7 +1389,14 @@
       "a common mistake",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The fully rigged ship sailed into the harbor."
+      },
+      {
+        "sentence": "He built a model of a fully rigged galleon."
+      }
+    ],
     "wrongExamples": [
       "He bought a fully rigged at the store.",
       "She collected several fully riggeds for her hobby.",
@@ -1445,7 +1508,14 @@
       "to achieve success",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "There was some funny stuff going on with the accounting."
+      },
+      {
+        "sentence": "I suspect funny stuff in the recent election."
+      }
+    ],
     "wrongExamples": [
       "The funny stuff was on sale yesterday.",
       "She lost her funny stuff last week.",
@@ -1463,7 +1533,14 @@
       "to take charge",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That smell would gag a dog off a gut wagon."
+      },
+      {
+        "sentence": "His cooking is enough to gag a dog off a gut wagon."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three gag a dog off a gut wagons.",
       "Where can I find a good gag a dog off a gut wagon?",
@@ -1481,7 +1558,14 @@
       "to make things better",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's been single for months and is gagging for it."
+      },
+      {
+        "sentence": "They were gagging for a drink after the long hike."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good gagging for it?",
       "That gagging for it looks brand new.",
@@ -1550,7 +1634,14 @@
       "a beneficial outcome",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He gained time by working in the prison library."
+      },
+      {
+        "sentence": "With good behavior, you can gain time and be released early."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three gain times.",
       "He bought a gain time at the store.",
@@ -1568,7 +1659,14 @@
       "a harmful practice",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The memory was gall and wormwood to him."
+      },
+      {
+        "sentence": "Defeat was gall and wormwood for the proud champion."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good gall and wormwood?",
       "The price of gall and wormwoods has gone up.",
@@ -1742,7 +1840,14 @@
       "to lose control",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The neighborhood kids ganged up to build a fort."
+      },
+      {
+        "sentence": "Several companies ganged up to lobby against the new law."
+      }
+    ],
     "wrongExamples": [
       "She learned to gang up at school.",
       "You should never gang up in public.",
@@ -1782,7 +1887,14 @@
       "a beneficial outcome",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They ganged up on the new student."
+      },
+      {
+        "sentence": "Don't gang up on me with your questions."
+      }
+    ],
     "wrongExamples": [
       "gang up at",
       "He tried to gang up on but failed miserably.",
@@ -1926,7 +2038,14 @@
       "to achieve success",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The chairperson gaveled the meeting to order."
+      },
+      {
+        "sentence": "She struggled to gavel the unruly crowd to order."
+      }
+    ],
     "wrongExamples": [
       "gavel in order",
       "I always gavel to order on Mondays.",
@@ -1972,7 +2091,14 @@
       "something done carelessly",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "David Bowie was a famous gender bender in the 70s."
+      },
+      {
+        "sentence": "The fashion show featured gender bender styles."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good gender bender?",
       "I've never seen a gender bender like that before.",
@@ -1990,7 +2116,14 @@
       "something done carelessly",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He won the genetic lottery with those looks and intelligence."
+      },
+      {
+        "sentence": "Health is often just a matter of the genetic lottery."
+      }
+    ],
     "wrongExamples": [
       "He bought a genetic lottery at the store.",
       "The genetic lottery was on sale yesterday.",
@@ -2033,7 +2166,14 @@
       "to avoid responsibility",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Despite his size, he is as gentle as a lamb."
+      },
+      {
+        "sentence": "The fierce dog turned out to be gentle as a lamb."
+      }
+    ],
     "wrongExamples": [
       "The price of gentle as a lambs has gone up.",
       "That gentle as a lamb looks brand new.",
@@ -2145,7 +2285,14 @@
       "to lose control",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He folded his German virgin pre-flop."
+      },
+      {
+        "sentence": "A German virgin isn't a very strong starting hand."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three german virgins.",
       "That german virgin looks brand new.",
@@ -2217,7 +2364,14 @@
       "to avoid responsibility",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The addict was desperate to get a fix."
+      },
+      {
+        "sentence": "I need to get a fix of caffeine before I can work."
+      }
+    ],
     "wrongExamples": [
       "get fix",
       "got a fix",
@@ -2392,7 +2546,14 @@
       "to show weakness",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm trying to get a line on a good mechanic."
+      },
+      {
+        "sentence": "Police are trying to get a line on the suspect's whereabouts."
+      }
+    ],
     "wrongExamples": [
       "get line on",
       "got a line on",
@@ -2438,7 +2599,14 @@
       "a harmful practice",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The crowd really got amongst it at the festival."
+      },
+      {
+        "sentence": "There's plenty of food, so get amongst it."
+      }
+    ],
     "wrongExamples": [
       "got amongst it",
       "I always get amongst it on Mondays.",
@@ -2681,7 +2849,14 @@
       "an unnecessary action",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After the bankruptcy, he decided to get back on the horse that bucked him."
+      },
+      {
+        "sentence": "It's scary, but you have to get back on the horse that bucked you."
+      }
+    ],
     "wrongExamples": [
       "get back on horse that bucked one",
       "got back on the horse that bucked one",
@@ -2769,7 +2944,14 @@
       "a beneficial outcome",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His mood changes as the wind blows."
+      },
+      {
+        "sentence": "We'll make a decision as the wind blows."
+      }
+    ],
     "wrongExamples": [
       "He bought a as the wind blows at the store.",
       "She collected several as the wind blowss for her hobby.",
@@ -2867,7 +3049,14 @@
       "a beneficial outcome",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I need to go home and get changed before dinner."
+      },
+      {
+        "sentence": "Get changed into your gym clothes."
+      }
+    ],
     "wrongExamples": [
       "got changed",
       "They forgot to get changed before leaving.",
@@ -2960,7 +3149,14 @@
       "to show weakness",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm getting grey hair from raising these teenagers."
+      },
+      {
+        "sentence": "This project is giving me grey hair."
+      }
+    ],
     "wrongExamples": [
       "got grey hair from",
       "get grey hair on",
@@ -3190,7 +3386,14 @@
       "an unnecessary action",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We must ensure these weapons don't get into the wrong hands."
+      },
+      {
+        "sentence": "If this information gets into the wrong hands, it could be disastrous."
+      }
+    ],
     "wrongExamples": [
       "get into wrong hands",
       "got into the wrong hands",
@@ -3290,7 +3493,14 @@
       "to lose control",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's a hustler; he gets it how he lives."
+      },
+      {
+        "sentence": "In this neighborhood, you get it how you live."
+      }
+    ],
     "wrongExamples": [
       "got it how one lives",
       "get it how one",
@@ -3360,7 +3570,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got life for the murder."
+      },
+      {
+        "sentence": "She's afraid she'll get life if convicted."
+      }
+    ],
     "wrongExamples": [
       "got life",
       "The instructions said to get life first thing in the morning.",
@@ -3407,7 +3624,14 @@
       "to gain advantage",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He gets misty whenever he talks about his late wife."
+      },
+      {
+        "sentence": "The movie ending made everyone get misty."
+      }
+    ],
     "wrongExamples": [
       "got misty",
       "I always get misty on Mondays.",
@@ -3496,7 +3720,14 @@
       "to make things better",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He needs to get off his high horse and listen to us."
+      },
+      {
+        "sentence": "She got off her high horse and apologized."
+      }
+    ],
     "wrongExamples": [
       "got off one's high horse",
       "get off one's high",
@@ -3612,7 +3843,14 @@
       "an unnecessary action",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't get your bowels in an uproar over a small mistake."
+      },
+      {
+        "sentence": "He got his bowels in an uproar when he saw the bill."
+      }
+    ],
     "wrongExamples": [
       "get one's bowels in uproar",
       "got one's bowels in an uproar",
@@ -3703,7 +3941,14 @@
       "to make things better",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Our team got their clock cleaned in the playoffs."
+      },
+      {
+        "sentence": "He tried to box the champion and got his clock cleaned."
+      }
+    ],
     "wrongExamples": [
       "got one's clock cleaned",
       "get one's clock",
@@ -3797,7 +4042,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got his fill of adventure and returned home."
+      },
+      {
+        "sentence": "I've got my fill of your complaints."
+      }
+    ],
     "wrongExamples": [
       "got one's fill",
       "I always get one's fill on Mondays.",
@@ -3815,7 +4067,14 @@
       "to cause problems",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We're late; get your finger out!"
+      },
+      {
+        "sentence": "If they don't get their finger out, they'll lose the contract."
+      }
+    ],
     "wrongExamples": [
       "got one's finger out",
       "get one's finger",
@@ -4095,7 +4354,14 @@
       "to avoid responsibility",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got his marching orders after the scandal."
+      },
+      {
+        "sentence": "The coach got his marching orders after a losing season."
+      }
+    ],
     "wrongExamples": [
       "got one's marching orders",
       "get one's marching",
@@ -4114,7 +4380,14 @@
       "to avoid responsibility",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That comment really got my monkey up."
+      },
+      {
+        "sentence": "Don't get his monkey up, or he'll yell."
+      }
+    ],
     "wrongExamples": [
       "got one's monkey up",
       "get one's monkey",
@@ -4350,7 +4623,14 @@
       "a common mistake",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She watched the parade at a distance."
+      },
+      {
+        "sentence": "Keep him at a distance; he's trouble."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good at a distance?",
       "The at a distance was on sale yesterday.",
@@ -4368,7 +4648,14 @@
       "an unnecessary action",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to get on the stick if we want to finish by noon."
+      },
+      {
+        "sentence": "Get on the stick and clean your room."
+      }
+    ],
     "wrongExamples": [
       "get on stick",
       "got on the stick",
@@ -4484,7 +4771,14 @@
       "something done carelessly",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Get out of my face before I lose my temper."
+      },
+      {
+        "sentence": "He told the paparazzi to get out of his face."
+      }
+    ],
     "wrongExamples": [
       "got out of my face",
       "get out on my face",
@@ -4502,7 +4796,14 @@
       "a common mistake",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Get out of my sight! I never want to see you again."
+      },
+      {
+        "sentence": "She banished him, screaming 'Get out of my sight!'"
+      }
+    ],
     "wrongExamples": [
       "got out of my sight",
       "get out with my sight",
@@ -5123,7 +5424,14 @@
       "to create confusion",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got the bullet for stealing from the register."
+      },
+      {
+        "sentence": "I'm worried I might get the bullet next week."
+      }
+    ],
     "wrongExamples": [
       "get bullet",
       "got the bullet",
@@ -5170,7 +5478,14 @@
       "a harmful practice",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Half the department got the chop yesterday."
+      },
+      {
+        "sentence": "If sales don't improve, we'll all get the chop."
+      }
+    ],
     "wrongExamples": [
       "get chop",
       "got the chop",
@@ -5349,7 +5664,14 @@
       "to create confusion",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Come on, get the lead out! We're late."
+      },
+      {
+        "sentence": "He told the workers to get the lead out."
+      }
+    ],
     "wrongExamples": [
       "get lead out",
       "got the lead out",
@@ -5516,7 +5838,14 @@
       "a beneficial outcome",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got the sack for being consistently late."
+      },
+      {
+        "sentence": "She's afraid she'll get the sack."
+      }
+    ],
     "wrongExamples": [
       "get sack",
       "got the sack",
@@ -5557,7 +5886,14 @@
       "an unnecessary action",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got the wind up when he heard the noise downstairs."
+      },
+      {
+        "sentence": "The rumors put the wind up the investors."
+      }
+    ],
     "wrongExamples": [
       "get wind up",
       "got the wind up",
@@ -5576,7 +5912,14 @@
       "something done carelessly",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to get the word out about the fundraiser."
+      },
+      {
+        "sentence": "Social media helps get the word out quickly."
+      }
+    ],
     "wrongExamples": [
       "get word out",
       "got the word out",
@@ -5818,7 +6161,14 @@
       "to face challenges",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That song really gets underneath my skin."
+      },
+      {
+        "sentence": "Don't let his comments get underneath your skin."
+      }
+    ],
     "wrongExamples": [
       "got underneath someone's skin",
       "get underneath someone's",
@@ -5864,7 +6214,14 @@
       "to take charge",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She has a lot of get-up-and-go."
+      },
+      {
+        "sentence": "He lost his get-up-and-go after the illness."
+      }
+    ],
     "wrongExamples": [
       "The price of get-up-and-gos has gone up.",
       "The get-up-and-go was on sale yesterday.",
@@ -5905,7 +6262,14 @@
       "a beneficial outcome",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "You won the lottery? Get up the yard!"
+      },
+      {
+        "sentence": "Get up the yard, you're having me on."
+      }
+    ],
     "wrongExamples": [
       "get up yard",
       "got up the yard",
@@ -5945,7 +6309,14 @@
       "to achieve success",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Farmers have to get up with the chickens."
+      },
+      {
+        "sentence": "I hate getting up with the chickens on weekends."
+      }
+    ],
     "wrongExamples": [
       "get up with chickens",
       "got up with the chickens",
@@ -6248,7 +6619,14 @@
       "to create confusion",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His ex-wife was the ghost at the feast."
+      },
+      {
+        "sentence": "The looming deadline was a ghost at the feast during the party."
+      }
+    ],
     "wrongExamples": [
       "She lost her ghost at the feast last week.",
       "He bought a ghost at the feast at the store.",
@@ -6266,7 +6644,14 @@
       "to gain advantage",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The scandal was a ghost from his past."
+      },
+      {
+        "sentence": "She was haunted by a ghost from her past."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three ghost from one's pasts.",
       "He bought a ghost from one's past at the store.",
@@ -6440,7 +6825,14 @@
       "to cause problems",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Great job! Gimme a five!"
+      },
+      {
+        "sentence": "He held up his hand and said, 'Gimme a five.'"
+      }
+    ],
     "wrongExamples": [
       "He bought a gimme a five at the store.",
       "I've never seen a gimme a five like that before.",
@@ -6458,7 +6850,14 @@
       "a harmful practice",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to ginger up the meeting with some debate."
+      },
+      {
+        "sentence": "They added spices to ginger up the stew."
+      }
+    ],
     "wrongExamples": [
       "She learned to ginger up at school.",
       "The instructions said to ginger up first thing in the morning.",
@@ -6819,7 +7218,14 @@
       "to create confusion",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The coach gave the players curry at half-time."
+      },
+      {
+        "sentence": "He really gave me curry for being late."
+      }
+    ],
     "wrongExamples": [
       "gave curry",
       "The instructions said to give curry first thing in the morning.",
@@ -7032,7 +7438,14 @@
       "to show weakness",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "At any given moment, thousands of planes are in the air."
+      },
+      {
+        "sentence": "I can leave at any given moment."
+      }
+    ],
     "wrongExamples": [
       "He bought a at any given moment at the store.",
       "The at any given moment was on sale yesterday.",
@@ -7050,7 +7463,14 @@
       "an unnecessary action",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He gave it the gun and sped away."
+      },
+      {
+        "sentence": "Give it the gun to get up this hill."
+      }
+    ],
     "wrongExamples": [
       "give it gun",
       "gave it the gun",
@@ -7068,7 +7488,14 @@
       "a beneficial outcome",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The new director gave life to the stagnant project."
+      },
+      {
+        "sentence": "Her performance gave life to the character."
+      }
+    ],
     "wrongExamples": [
       "gave life to",
       "give life from",
@@ -7169,7 +7596,14 @@
       "to avoid responsibility",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Since her promotion, she's been giving herself airs."
+      },
+      {
+        "sentence": "Don't give yourself airs; you're no better than us."
+      }
+    ],
     "wrongExamples": [
       "gave oneself airs",
       "She learned to give oneself airs at school.",
@@ -7386,7 +7820,14 @@
       "to make things better",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If you let them stay up late once, they'll want to every night; give someone an inch and someone will take a mile."
+      },
+      {
+        "sentence": "He's the type where if you give someone an inch, someone will take a mile."
+      }
+    ],
     "wrongExamples": [
       "give someone inch and someone will take mile",
       "gave someone an inch and someone will take a mile",
@@ -7429,7 +7870,14 @@
       "to make things better",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He plans to give her a ring on Valentine's Day."
+      },
+      {
+        "sentence": "Give me a ring sometime (call me)."
+      }
+    ],
     "wrongExamples": [
       "give someone ring",
       "gave someone a ring",
@@ -7491,7 +7939,14 @@
       "to create confusion",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The boss gave him beans for the mistake."
+      },
+      {
+        "sentence": "She gave the dog beans for digging in the garden."
+      }
+    ],
     "wrongExamples": [
       "gave someone beans",
       "She learned to give someone beans at school.",
@@ -7534,7 +7989,14 @@
       "to achieve success",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Give him enough rope and he'll hang himself."
+      },
+      {
+        "sentence": "I'll give them enough rope to see if they can handle it."
+      }
+    ],
     "wrongExamples": [
       "gave someone enough rope",
       "give someone enough",
@@ -7552,7 +8014,14 @@
       "an unnecessary action",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This computer is giving me grey hair."
+      },
+      {
+        "sentence": "Her teenage son is giving her grey hair."
+      }
+    ],
     "wrongExamples": [
       "gave someone grey hair",
       "give someone grey",
@@ -7623,7 +8092,14 @@
       "to gain advantage",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The owner gave the manager his head to run the shop."
+      },
+      {
+        "sentence": "Sometimes it's best to give a horse his head."
+      }
+    ],
     "wrongExamples": [
       "gave someone his head",
       "give someone his",
@@ -7961,7 +8437,14 @@
       "to cause problems",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We should give her her flowers while she's still here to appreciate them."
+      },
+      {
+        "sentence": "He deserves to be given his flowers for that achievement."
+      }
+    ],
     "wrongExamples": [
       "gave someone their flowers",
       "give someone their",
@@ -8320,7 +8803,14 @@
       "to make things better",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They decided to give the axe to the new TV show."
+      },
+      {
+        "sentence": "He was given the axe after the merger."
+      }
+    ],
     "wrongExamples": [
       "give axe",
       "gave the axe",
@@ -8499,7 +8989,14 @@
       "to show weakness",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He was given the sack for stealing."
+      },
+      {
+        "sentence": "I'm afraid I'll be given the sack."
+      }
+    ],
     "wrongExamples": [
       "give sack",
       "gave the sack",
@@ -8545,7 +9042,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We were talking at cross-purposes and getting nowhere."
+      },
+      {
+        "sentence": "They argued for hours, but were at cross-purposes."
+      }
+    ],
     "wrongExamples": [
       "He bought a at cross-purposes at the store.",
       "Where can I find a good at cross-purposes?",
@@ -8714,7 +9218,14 @@
       "a beneficial outcome",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Glory be! You actually cleaned your room."
+      },
+      {
+        "sentence": "Glory be to God."
+      }
+    ],
     "wrongExamples": [
       "The price of glory bes has gone up.",
       "That glory be looks brand new.",
@@ -8841,7 +9352,14 @@
       "to gain advantage",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Guilt gnawed his vitals."
+      },
+      {
+        "sentence": "The secret was gnawing her vitals."
+      }
+    ],
     "wrongExamples": [
       "He tried to gnaw someone's vitals but failed miserably.",
       "They forgot to gnaw someone's vitals before leaving.",
@@ -8885,7 +9403,14 @@
       "to gain advantage",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We went all around the Wrekin to get here."
+      },
+      {
+        "sentence": "Don't go all around the Wrekin; just say it."
+      }
+    ],
     "wrongExamples": [
       "go all around Wrekin",
       "go all around the",
@@ -9086,7 +9611,14 @@
       "to avoid responsibility",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I decided to go along with the gag to see where it went."
+      },
+      {
+        "sentence": "He wouldn't go along with the gag."
+      }
+    ],
     "wrongExamples": [
       "go along with gag",
       "go along with the",
@@ -9104,7 +9636,14 @@
       "something done carelessly",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Stop going around the houses and answer the question."
+      },
+      {
+        "sentence": "He went around the houses before admitting the truth."
+      }
+    ],
     "wrongExamples": [
       "go around houses",
       "go around the",
@@ -9386,7 +9925,14 @@
       "something done carelessly",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Many old traditions have gone by the wayside."
+      },
+      {
+        "sentence": "His diet went by the wayside during the holidays."
+      }
+    ],
     "wrongExamples": [
       "go by wayside",
       "go with the wayside",
@@ -9404,7 +9950,14 @@
       "to show weakness",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If you don't like it, go climb a tree."
+      },
+      {
+        "sentence": "He told the rude customer to go climb a tree."
+      }
+    ],
     "wrongExamples": [
       "go climb tree",
       "go climb a",
@@ -9473,7 +10026,14 @@
       "a common mistake",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If anything happens to him, God forfend, I don't know what I'll do."
+      },
+      {
+        "sentence": "God forfend that we should fail."
+      }
+    ],
     "wrongExamples": [
       "He bought a god forfend at the store.",
       "My friend owns three god forfends.",
@@ -9491,7 +10051,14 @@
       "to gain advantage",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Pay attention to the small stuff; God is in the detail."
+      },
+      {
+        "sentence": "The plan looks good, but remember, God is in the detail."
+      }
+    ],
     "wrongExamples": [
       "The god is in the detail was on sale yesterday.",
       "She collected several god is in the details for her hobby.",
@@ -9532,7 +10099,14 @@
       "to take charge",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His career went down in flames after the scandal."
+      },
+      {
+        "sentence": "The project went down in flames."
+      }
+    ],
     "wrongExamples": [
       "go down by flames",
       "go down in",
@@ -9644,7 +10218,14 @@
       "to face challenges",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The economy is going down the toilet."
+      },
+      {
+        "sentence": "His reputation went down the toilet."
+      }
+    ],
     "wrongExamples": [
       "go down toilet",
       "go down the",
@@ -9771,7 +10352,14 @@
       "to gain advantage",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He thinks he's God's gift to men."
+      },
+      {
+        "sentence": "She acts like she's God's gift to men."
+      }
+    ],
     "wrongExamples": [
       "She lost her god's gift to men last week.",
       "My friend owns three god's gift to mens.",
@@ -9811,7 +10399,14 @@
       "something done carelessly",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's the God's honest truth."
+      },
+      {
+        "sentence": "I swear, it's the God's honest truth."
+      }
+    ],
     "wrongExamples": [
       "The god's honest truth was on sale yesterday.",
       "She collected several god's honest truths for her hobby.",
@@ -10039,7 +10634,14 @@
       "to lose control",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The antique table went for a song at the auction."
+      },
+      {
+        "sentence": "We bought the house for a song."
+      }
+    ],
     "wrongExamples": [
       "go for song",
       "go for a",
@@ -10117,7 +10719,14 @@
       "a beneficial outcome",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He told his boss to go forth and multiply."
+      },
+      {
+        "sentence": "If he bothers you, just tell him to go forth and multiply."
+      }
+    ],
     "wrongExamples": [
       "go forth and",
       "Everyone should go forth and multiply at least once.",
@@ -10187,7 +10796,14 @@
       "to achieve success",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The jury found him not guilty, and he was allowed to go free."
+      },
+      {
+        "sentence": "After the war, the prisoners went free."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to go free?",
       "The instructions said to go free first thing in the morning.",
@@ -10235,7 +10851,14 @@
       "to show weakness",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He went from zero to hero with that winning goal."
+      },
+      {
+        "sentence": "The movie is about a nobody who goes from zero to hero."
+      }
+    ],
     "wrongExamples": [
       "go in zero to hero",
       "go from zero to",
@@ -10365,7 +10988,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The company decided to go green to save money and the planet."
+      },
+      {
+        "sentence": "We are going green by recycling more."
+      }
+    ],
     "wrongExamples": [
       "It takes practice to go green correctly.",
       "The manual shows how to go green properly.",
@@ -10627,7 +11257,14 @@
       "to create confusion",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They decided to go in the out door."
+      },
+      {
+        "sentence": "Slang for anal sex: going in the out door."
+      }
+    ],
     "wrongExamples": [
       "go in out door",
       "go on the out door",
@@ -10667,7 +11304,14 @@
       "to gain advantage",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I decided to go in with him on the investment."
+      },
+      {
+        "sentence": "Will you go in with me on a birthday gift for Mom?"
+      }
+    ],
     "wrongExamples": [
       "go of with",
       "Can you teach me to go in with?",
@@ -10713,7 +11357,14 @@
       "a common mistake",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He told the annoying salesman to go jump off a building."
+      },
+      {
+        "sentence": "I'm not doing that; go jump off a building."
+      }
+    ],
     "wrongExamples": [
       "go jump off building",
       "go jump off a",
@@ -10753,7 +11404,14 @@
       "to make things better",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She was accused of gold-digging."
+      },
+      {
+        "sentence": "He's just gold-digging for an inheritance."
+      }
+    ],
     "wrongExamples": [
       "I always gold-dig on Mondays.",
       "She learned to gold-dig at school.",
@@ -10827,7 +11485,14 @@
       "to make things better",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The batsman was out for a golden duck."
+      },
+      {
+        "sentence": "He suffered the embarrassment of a golden duck."
+      }
+    ],
     "wrongExamples": [
       "The price of golden ducks has gone up.",
       "He bought a golden duck at the store.",
@@ -10912,7 +11577,14 @@
       "to lose control",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He received a substantial golden hello to join the firm."
+      },
+      {
+        "sentence": "Golden hellos are common in high finance."
+      }
+    ],
     "wrongExamples": [
       "He bought a golden hello at the store.",
       "The price of golden hellos has gone up.",
@@ -11348,7 +12020,14 @@
       "a harmful practice",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "His fortune was gone with the wind."
+      },
+      {
+        "sentence": "Our plans are gone with the wind."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three gone with the winds.",
       "That gone with the wind looks brand new.",
@@ -11397,7 +12076,14 @@
       "to gain advantage",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This discussion is going nowhere fast."
+      },
+      {
+        "sentence": "We're stuck in traffic and going nowhere fast."
+      }
+    ],
     "wrongExamples": [
       "You should never go nowhere fast in public.",
       "The manual shows how to go nowhere fast properly.",
@@ -11661,7 +12347,14 @@
       "to make things better",
       "to repeat an error"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It's not perfect, but it's good enough for jazz."
+      },
+      {
+        "sentence": "Fix it up so it's good enough for jazz."
+      }
+    ],
     "wrongExamples": [
       "She collected several good enough for jazzs for her hobby.",
       "The good enough for jazz was on sale yesterday.",
@@ -11832,7 +12525,14 @@
       "to lose control",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The world is at his feet."
+      },
+      {
+        "sentence": "She has the audience at her feet."
+      }
+    ],
     "wrongExamples": [
       "She collected several at one's feets for her hobby.",
       "She lost her at one's feet last week.",
@@ -11850,7 +12550,14 @@
       "to gain advantage",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He has a good head on his shoulders."
+      },
+      {
+        "sentence": "Trust her; she has a good head on her shoulders."
+      }
+    ],
     "wrongExamples": [
       "That good head on one's shoulders looks brand new.",
       "I've never seen a good head on one's shoulders like that before.",
@@ -11996,7 +12703,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Goodness gracious me, look at the time!"
+      },
+      {
+        "sentence": "Goodness gracious me, what a mess."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a goodness gracious me like that before.",
       "She collected several goodness gracious mes for her hobby.",

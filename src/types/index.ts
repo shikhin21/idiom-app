@@ -5,6 +5,8 @@ export interface Idiom {
   definition: string;
   examples: Array<{ sentence: string; usedIdiom?: string }>;
   wrongExamples: string[]; // Sentences that use the idiom incorrectly
+  wrongDefinitions: string[]; // Incorrect definitions for quiz options
+  context?: string; // Optional context like "UK" for region-specific idioms
 }
 
 // User's metadata about an idiom
@@ -118,7 +120,9 @@ export interface PersistedState {
   idiomMeta: Record<string, IdiomMeta>;
   daily: Record<string, DailyLog>;
   quizInProgress: QuizState | null;
-  nextIdiomIndex: number;
+  nextIdiomIndex: number; // Deprecated in v2, kept for migration
+  currentChunkIndex: number; // v2: which chunk file (0-18)
+  currentChunkOffset: number; // v2: position within current chunk
   version: number;
 }
 

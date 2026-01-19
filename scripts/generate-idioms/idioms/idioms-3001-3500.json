@@ -205,7 +205,14 @@
       "to avoid responsibility",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The peasant woman was heavy with child."
+      },
+      {
+        "sentence": "She walked slowly, being heavy with child."
+      }
+    ],
     "wrongExamples": [
       "He bought a heavy with child at the store.",
       "That heavy with child looks brand new.",
@@ -252,7 +259,14 @@
       "a common mistake",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The prank turned into a heffalump trap for him."
+      },
+      {
+        "sentence": "He fell right into his own heffalump trap."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good heffalump trap?",
       "That heffalump trap looks brand new.",
@@ -298,7 +312,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She took off her bike helmet and tried to fix her helmet hair."
+      },
+      {
+        "sentence": "Sorry about the helmet hair; I rode my scooter here."
+      }
+    ],
     "wrongExamples": [
       "He bought a helmet hair at the store.",
       "That helmet hair looks brand new.",
@@ -316,7 +337,14 @@
       "to create confusion",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's always willing to help a lame dog over a stile."
+      },
+      {
+        "sentence": "It was just a small act of helping a lame dog over a stile."
+      }
+    ],
     "wrongExamples": [
       "help lame dog over stile",
       "help a lame dog over a",
@@ -435,7 +463,14 @@
       "to achieve success",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The festival adds some herbs and spices to the town's culture."
+      },
+      {
+        "sentence": "We need more herbs and spices in this boring presentation."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three herbs and spicess.",
       "He bought a herbs and spices at the store.",
@@ -653,7 +688,14 @@
       "a common mistake",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's just an average joe trying to make a living."
+      },
+      {
+        "sentence": "The policy appeals to the average joe."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three average joes.",
       "He bought a average joe at the store.",
@@ -920,7 +962,14 @@
       "to achieve success",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We need to average up the costs for the report."
+      },
+      {
+        "sentence": "The investor averaged up by buying more shares."
+      }
+    ],
     "wrongExamples": [
       "She learned to average up at school.",
       "Everyone should average up at least once.",
@@ -1041,7 +1090,14 @@
       "to take charge",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She is very high on the totem pole in that company."
+      },
+      {
+        "sentence": "He wants to be high on the totem pole one day."
+      }
+    ],
     "wrongExamples": [
       "The high on the totem pole was on sale yesterday.",
       "The price of high on the totem poles has gone up.",
@@ -1231,7 +1287,14 @@
       "to take charge",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The garden is beautiful in high summer."
+      },
+      {
+        "sentence": "It was high summer and the heat was intense."
+      }
+    ],
     "wrongExamples": [
       "She lost her high summer last week.",
       "He bought a high summer at the store.",
@@ -1300,7 +1363,14 @@
       "to lose control",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The politician claimed he was hiking the Appalachian Trail."
+      },
+      {
+        "sentence": "The phrase 'hiking the Appalachian Trail' became a euphemism."
+      }
+    ],
     "wrongExamples": [
       "hike Appalachian Trail",
       "hike the Appalachian",
@@ -1477,7 +1547,14 @@
       "an unnecessary action",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The small company is hitting above its weight."
+      },
+      {
+        "sentence": "He hits above his weight in intellectual debates."
+      }
+    ],
     "wrongExamples": [
       "hit above one's",
       "They forgot to hit above one's weight before leaving.",
@@ -1598,7 +1675,14 @@
       "to cause problems",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The team is hitting below its weight this season."
+      },
+      {
+        "sentence": "With that budget, the film hit below its weight."
+      }
+    ],
     "wrongExamples": [
       "hit below one's",
       "You should never hit below one's weight in public.",
@@ -1746,7 +1830,14 @@
       "to achieve success",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They really hit it up at the party."
+      },
+      {
+        "sentence": "I hope we hit it up when we meet."
+      }
+    ],
     "wrongExamples": [
       "He tried to hit it up but failed miserably.",
       "Can you teach me to hit it up?",
@@ -1956,7 +2047,14 @@
       "to take charge",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "As they say, a week is a long time in politics."
+      },
+      {
+        "sentence": "The polls changed drastically; a week is a long time in politics."
+      }
+    ],
     "wrongExamples": [
       "This a week is a long time in politics is made of plastic.",
       "He bought a a week is a long time in politics at the store.",
@@ -2176,7 +2274,14 @@
       "to make things better",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's just like his father; a wild goose never laid a tame egg."
+      },
+      {
+        "sentence": "Don't expect him to be different; a wild goose never laid a tame egg."
+      }
+    ],
     "wrongExamples": [
       "He bought a a wild goose never laid a tame egg at the store.",
       "Where can I find a good a wild goose never laid a tame egg?",
@@ -2316,7 +2421,14 @@
       "to gain advantage",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Their marriage hit the rocks after a year."
+      },
+      {
+        "sentence": "The negotiations hit the rocks."
+      }
+    ],
     "wrongExamples": [
       "hit rocks",
       "The manual shows how to hit the rocks properly.",
@@ -2384,7 +2496,14 @@
       "a beneficial outcome",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The new book hits the shelves next week."
+      },
+      {
+        "sentence": "When does the product hit the shelves?"
+      }
+    ],
     "wrongExamples": [
       "hit shelves",
       "It takes practice to hit the shelves correctly.",
@@ -2402,7 +2521,14 @@
       "something done carelessly",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Shoppers lined up before the game hit the shops."
+      },
+      {
+        "sentence": "The fashion line hits the shops in spring."
+      }
+    ],
     "wrongExamples": [
       "hit shops",
       "It takes practice to hit the shops correctly.",
@@ -2493,7 +2619,14 @@
       "a beneficial outcome",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The toy will hit the stores before Christmas."
+      },
+      {
+        "sentence": "Fans waited for the album to hit the stores."
+      }
+    ],
     "wrongExamples": [
       "hit stores",
       "He tried to hit the stores but failed miserably.",
@@ -2511,7 +2644,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The police hit the streets to find the suspect."
+      },
+      {
+        "sentence": "Salespeople hit the streets to promote the new offer."
+      }
+    ],
     "wrongExamples": [
       "hit streets",
       "Can you teach me to hit the streets?",
@@ -2604,7 +2744,14 @@
       "a beneficial outcome",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He acts like he was hit with the stupid stick."
+      },
+      {
+        "sentence": "Did you get hit with the stupid stick today?"
+      }
+    ],
     "wrongExamples": [
       "hit with stupid stick",
       "hit at the stupid stick",
@@ -3194,7 +3341,14 @@
       "to lose control",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Tell him to hold his jaw."
+      },
+      {
+        "sentence": "He held his jaw to avoid an argument."
+      }
+    ],
     "wrongExamples": [
       "held one's jaw",
       "I always hold one's jaw on Mondays.",
@@ -3243,7 +3397,14 @@
       "to achieve success",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If you hold your mouth right, you might catch a fish."
+      },
+      {
+        "sentence": "It takes skill and holding your mouth right."
+      }
+    ],
     "wrongExamples": [
       "held one's mouth right",
       "hold one's mouth",
@@ -3945,7 +4106,14 @@
       "a harmful practice",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The typo in the memo was the baby elephant in the room."
+      },
+      {
+        "sentence": "Nobody mentioned the baby elephant in the room."
+      }
+    ],
     "wrongExamples": [
       "She lost her baby elephant in the room last week.",
       "The price of baby elephant in the rooms has gone up.",
@@ -4184,7 +4352,14 @@
       "to avoid responsibility",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Holy catfish! Did you see that?"
+      },
+      {
+        "sentence": "Holy catfish, that was close."
+      }
+    ],
     "wrongExamples": [
       "That holy catfish looks brand new.",
       "He bought a holy catfish at the store.",
@@ -4274,7 +4449,14 @@
       "a common mistake",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Holy crud, I forgot my keys."
+      },
+      {
+        "sentence": "Holy crud, look at the size of that thing."
+      }
+    ],
     "wrongExamples": [
       "The holy crud was on sale yesterday.",
       "My friend owns three holy cruds.",
@@ -4292,7 +4474,14 @@
       "to make things better",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Holy doodle, what happened here?"
+      },
+      {
+        "sentence": "Holy doodle, that's expensive."
+      }
+    ],
     "wrongExamples": [
       "He bought a holy doodle at the store.",
       "The holy doodle was on sale yesterday.",
@@ -4310,7 +4499,14 @@
       "something done carelessly",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Holy macaroni, that's amazing!"
+      },
+      {
+        "sentence": "Holy macaroni, I can't believe we won."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good holy macaroni?",
       "The holy macaroni was on sale yesterday.",
@@ -4544,7 +4740,14 @@
       "to avoid responsibility",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The home team has the advantage."
+      },
+      {
+        "sentence": "Cheer for the home team."
+      }
+    ],
     "wrongExamples": [
       "He bought a home team at the store.",
       "The home team was on sale yesterday.",
@@ -4656,7 +4859,14 @@
       "to achieve success",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He spent the weekend working on his honey do list."
+      },
+      {
+        "sentence": "My honey do list is getting longer."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three honey do lists.",
       "The price of honey do lists has gone up.",
@@ -4933,7 +5143,14 @@
       "a common mistake",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Just hop off and leave me alone."
+      },
+      {
+        "sentence": "I told him to hop off."
+      }
+    ],
     "wrongExamples": [
       "You should never hop off in public.",
       "Can you teach me to hop off?",
@@ -4979,7 +5196,14 @@
       "to gain advantage",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They were caught hopping the wag."
+      },
+      {
+        "sentence": "He used to hop the wag to go fishing."
+      }
+    ],
     "wrongExamples": [
       "hop wag",
       "He tried to hop the wag but failed miserably.",
@@ -5020,7 +5244,14 @@
       "to create confusion",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The neighbors were doing some horizontal dancing."
+      },
+      {
+        "sentence": "Horizontal dancing is a euphemism."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a horizontal dancing like that before.",
       "She collected several horizontal dancings for her hobby.",
@@ -5113,7 +5344,14 @@
       "to achieve success",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He acted like a back-cloth star, stealing the scene."
+      },
+      {
+        "sentence": "Don't be a back-cloth star; let others shine."
+      }
+    ],
     "wrongExamples": [
       "She lost her back-cloth star last week.",
       "He bought a back-cloth star at the store.",
@@ -5228,7 +5466,14 @@
       "to lose control",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The knight bought new horse armor."
+      },
+      {
+        "sentence": "The DLC for horse armor was controversial."
+      }
+    ],
     "wrongExamples": [
       "This horse armor is made of plastic.",
       "He bought a horse armor at the store.",
@@ -5503,7 +5748,14 @@
       "to face challenges",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He got all hot and bothered about the delay."
+      },
+      {
+        "sentence": "Don't get hot and bothered over nothing."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a hot and bothered like that before.",
       "The hot and bothered was on sale yesterday.",
@@ -5612,7 +5864,14 @@
       "a common mistake",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Keep passing to him; he has the hot hand."
+      },
+      {
+        "sentence": "The shooter had a hot hand in the fourth quarter."
+      }
+    ],
     "wrongExamples": [
       "He bought a hot hand at the store.",
       "The hot hand was on sale yesterday.",
@@ -5658,7 +5917,14 @@
       "to show weakness",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The hot-mouthed horse refused to obey."
+      },
+      {
+        "sentence": "He was a hot-mouthed rebel."
+      }
+    ],
     "wrongExamples": [
       "The price of hot-moutheds has gone up.",
       "He bought a hot-mouthed at the store.",
@@ -5676,7 +5942,14 @@
       "a common mistake",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "This news is hot off the presses."
+      },
+      {
+        "sentence": "Get your copy hot off the presses."
+      }
+    ],
     "wrongExamples": [
       "This hot off the presses is made of plastic.",
       "She lost her hot off the presses last week.",
@@ -5918,7 +6191,14 @@
       "to create confusion",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They threw a house cooling party before moving out."
+      },
+      {
+        "sentence": "The house cooling party was a bittersweet farewell."
+      }
+    ],
     "wrongExamples": [
       "He bought a house cooling party at the store.",
       "The house cooling party was on sale yesterday.",
@@ -5989,7 +6269,14 @@
       "to show weakness",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They bought a mansion but are now house poor."
+      },
+      {
+        "sentence": "Being house poor means no money for vacations."
+      }
+    ],
     "wrongExamples": [
       "The house poor was on sale yesterday.",
       "He bought a house poor at the store.",
@@ -6113,7 +6400,14 @@
       "to avoid responsibility",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Complaining to them is just howling at the moon."
+      },
+      {
+        "sentence": "He's howling at the moon if he thinks they'll listen."
+      }
+    ],
     "wrongExamples": [
       "howl at moon",
       "howl on the moon",
@@ -6251,7 +6545,14 @@
       "a common mistake",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She signed the letter with hugs and kisses."
+      },
+      {
+        "sentence": "Sending you hugs and kisses."
+      }
+    ],
     "wrongExamples": [
       "He bought a hugs and kisses at the store.",
       "She collected several hugs and kissess for her hobby.",
@@ -6388,7 +6689,14 @@
       "to take charge",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He hunched over his desk working late."
+      },
+      {
+        "sentence": "Don't hunch over; stand up straight."
+      }
+    ],
     "wrongExamples": [
       "He tried to hunch over but failed miserably.",
       "Can you teach me to hunch over?",
@@ -6406,7 +6714,14 @@
       "to face challenges",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The hunger sauce of the bacon frying woke him up."
+      },
+      {
+        "sentence": "Good marketing is the hunger sauce for the product."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good hunger sauce?",
       "He bought a hunger sauce at the store.",
@@ -6480,7 +6795,14 @@
       "to avoid responsibility",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He's just a hurler on the ditch with no real experience."
+      },
+      {
+        "sentence": "Ignore the hurlers on the ditch and focus on the game."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a hurler on the ditch like that before.",
       "That hurler on the ditch looks brand new.",
@@ -6524,7 +6846,14 @@
       "to avoid responsibility",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The army is all about hurry up and wait."
+      },
+      {
+        "sentence": "We rushed to the airport just to hurry up and wait."
+      }
+    ],
     "wrongExamples": [
       "hurry up and",
       "I always hurry up and wait on Mondays.",
@@ -6564,7 +6893,14 @@
       "to create confusion",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I didn't mean to hurt your feelings."
+      },
+      {
+        "sentence": "His harsh words hurt her feelings."
+      }
+    ],
     "wrongExamples": [
       "They forgot to hurt someone's feelings before leaving.",
       "She learned to hurt someone's feelings at school.",
@@ -6582,7 +6918,14 @@
       "a common mistake",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After that goal, they are back in the game."
+      },
+      {
+        "sentence": "With the new loan, the business is back in the game."
+      }
+    ],
     "wrongExamples": [
       "The price of back in the games has gone up.",
       "My friend owns three back in the games.",
@@ -6622,7 +6965,14 @@
       "to gain advantage",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The market was hustly-bustly with shoppers."
+      },
+      {
+        "sentence": "I enjoy the hustly-bustly atmosphere of the city."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three hustly-bustlys.",
       "That hustly-bustly looks brand new.",
@@ -6640,7 +6990,14 @@
       "to lose control",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Can you hutch up a bit so I can sit down?"
+      },
+      {
+        "sentence": "We hutched up to make room for everyone."
+      }
+    ],
     "wrongExamples": [
       "I always hutch up on Mondays.",
       "The manual shows how to hutch up properly.",
@@ -6796,7 +7153,14 @@
       "to achieve success",
       "lacking preparation"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She was described as an ice maiden due to her cold demeanor."
+      },
+      {
+        "sentence": "The ice maiden thawed when she saw the puppy."
+      }
+    ],
     "wrongExamples": [
       "He bought a ice maiden at the store.",
       "This ice maiden is made of plastic.",
@@ -6814,7 +7178,14 @@
       "to face challenges",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "After a vacation, he's back in the groove."
+      },
+      {
+        "sentence": "The band is back in the groove with their new album."
+      }
+    ],
     "wrongExamples": [
       "She lost her back in the groove last week.",
       "She collected several back in the grooves for her hobby.",
@@ -6957,7 +7328,14 @@
       "to cause problems",
       "being too confident"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The toddler wore idiot mittens to play in the snow."
+      },
+      {
+        "sentence": "He lost his gloves because he didn't have idiot mittens."
+      }
+    ],
     "wrongExamples": [
       "She lost her idiot mittens last week.",
       "This idiot mittens is made of plastic.",
@@ -7019,7 +7397,14 @@
       "something done carelessly",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He says it's safe, but I don't know about that."
+      },
+      {
+        "sentence": "I don't know about that; it sounds risky."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good i don't know about that?",
       "That i don't know about that looks brand new.",
@@ -7165,7 +7550,14 @@
       "to lose control",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I might be late, so if I'm not there, start without me."
+      },
+      {
+        "sentence": "If I'm not there, start without me; I have another meeting."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three if i'm not there, start without mes.",
       "The if i'm not there, start without me was on sale yesterday.",
@@ -7230,7 +7622,14 @@
       "something done carelessly",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She gave him a look, and if looks could kill, he'd be dead."
+      },
+      {
+        "sentence": "If looks could kill, the room would be empty."
+      }
+    ],
     "wrongExamples": [
       "The if looks could kill was on sale yesterday.",
       "That if looks could kill looks brand new.",
@@ -7248,7 +7647,14 @@
       "to lose control",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I can work late if need be."
+      },
+      {
+        "sentence": "We will hire more staff if need be."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a if need be like that before.",
       "My friend owns three if need bes.",
@@ -7366,7 +7772,14 @@
       "to cause problems",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If these walls could talk, what stories they would tell."
+      },
+      {
+        "sentence": "It's an old hotel; if these walls could talk..."
+      }
+    ],
     "wrongExamples": [
       "The price of if these walls could talks has gone up.",
       "She collected several if these walls could talks for her hobby.",
@@ -7384,7 +7797,14 @@
       "something done carelessly",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I didn't name names, but if the shoe fits..."
+      },
+      {
+        "sentence": "You think I'm talking about you? Well, if the shoe fits."
+      }
+    ],
     "wrongExamples": [
       "He bought a if the shoe fits at the store.",
       "The if the shoe fits was on sale yesterday.",
@@ -7452,7 +7872,14 @@
       "to create confusion",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "If you believe that, I have a bridge to sell you."
+      },
+      {
+        "sentence": "He thinks he won the lottery via email? I have a bridge to sell him."
+      }
+    ],
     "wrongExamples": [
       "That i have a bridge to sell you looks brand new.",
       "She collected several i have a bridge to sell yous for her hobby.",
@@ -7470,7 +7897,14 @@
       "to achieve success",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't ask me about policy; I just work here."
+      },
+      {
+        "sentence": "I just work here, so I follow the rules."
+      }
+    ],
     "wrongExamples": [
       "The price of i just work heres has gone up.",
       "He bought a i just work here at the store.",
@@ -7589,7 +8023,14 @@
       "an unnecessary action",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Well, I'll be danged! You made it."
+      },
+      {
+        "sentence": "I'll be danged if I know the answer."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a i'll be danged like that before.",
       "The price of i'll be dangeds has gone up.",
@@ -7682,7 +8123,14 @@
       "to achieve success",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Where did you hide it? I'm not telling you."
+      },
+      {
+        "sentence": "I'm not telling you my password."
+      }
+    ],
     "wrongExamples": [
       "The price of i'm not telling yous has gone up.",
       "Where can I find a good i'm not telling you?",
@@ -7700,7 +8148,14 @@
       "to show weakness",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't mess with me; I'm not the one."
+      },
+      {
+        "sentence": "He told the rude customer, 'I'm not the one.'"
+      }
+    ],
     "wrongExamples": [
       "She lost her i'm not the one last week.",
       "I've never seen a i'm not the one like that before.",
@@ -7865,7 +8320,14 @@
       "to make things better",
       "being overly cautious"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The old man is now in Abraham's bosom."
+      },
+      {
+        "sentence": "May he rest in Abraham's bosom."
+      }
+    ],
     "wrongExamples": [
       "He bought a in abraham's bosom at the store.",
       "My friend owns three in abraham's bosoms.",
@@ -7930,7 +8392,14 @@
       "a beneficial outcome",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We are in a fix with this broken engine."
+      },
+      {
+        "sentence": "He got himself in a fix by lying."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good in a fix?",
       "I've never seen a in a fix like that before.",
@@ -8032,7 +8501,14 @@
       "to cause problems",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He wandered around in a fog all day."
+      },
+      {
+        "sentence": "I'm in a fog without my coffee."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good in a fog?",
       "He bought a in a fog at the store.",
@@ -8078,7 +8554,14 @@
       "to achieve success",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Will I do that? In a hen's hiney!"
+      },
+      {
+        "sentence": "In a hen's hiney I will help him."
+      }
+    ],
     "wrongExamples": [
       "This in a hen's hiney is made of plastic.",
       "That in a hen's hiney looks brand new.",
@@ -8096,7 +8579,14 @@
       "to create confusion",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'm in a jam and need a ride."
+      },
+      {
+        "sentence": "Call me if you're ever in a jam."
+      }
+    ],
     "wrongExamples": [
       "in jam",
       "at a jam",
@@ -8114,7 +8604,14 @@
       "to take charge",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "As a singer, she is in a league of her own."
+      },
+      {
+        "sentence": "That restaurant is in a league of its own."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a in a league of one's own like that before.",
       "The price of in a league of one's owns has gone up.",
@@ -8213,7 +8710,14 @@
       "to take charge",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They celebrated in a major key."
+      },
+      {
+        "sentence": "The project was launched in a major key."
+      }
+    ],
     "wrongExamples": [
       "That in a major key looks brand new.",
       "She collected several in a major keys for her hobby.",
@@ -8231,7 +8735,14 @@
       "a beneficial outcome",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Her room is in a mess."
+      },
+      {
+        "sentence": "The economy is in a mess."
+      }
+    ],
     "wrongExamples": [
       "That in a mess looks brand new.",
       "She collected several in a messs for her hobby.",
@@ -8277,7 +8788,14 @@
       "an unnecessary action",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The party was held in a minor key."
+      },
+      {
+        "sentence": "He spoke in a minor key, barely audible."
+      }
+    ],
     "wrongExamples": [
       "My friend owns three in a minor keys.",
       "He bought a in a minor key at the store.",
@@ -8295,7 +8813,14 @@
       "a common mistake",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was just a bit of the old in and out."
+      },
+      {
+        "sentence": "Clockwork Orange refers to the old in and out."
+      }
+    ],
     "wrongExamples": [
       "He bought a in and out at the store.",
       "The in and out was on sale yesterday.",
@@ -8494,7 +9019,14 @@
       "to show weakness",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "In a pig's patoot I'll lend you money."
+      },
+      {
+        "sentence": "Will I go? In a pig's patoot."
+      }
+    ],
     "wrongExamples": [
       "She collected several in a pig's patoots for her hobby.",
       "I've never seen a in a pig's patoot like that before.",
@@ -8562,7 +9094,14 @@
       "to gain advantage",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I feel like I'm in a rut at work."
+      },
+      {
+        "sentence": "Let's try something new to get out of this rut."
+      }
+    ],
     "wrongExamples": [
       "in rut",
       "at a rut",
@@ -8580,7 +9119,14 @@
       "to make things better",
       "showing poor judgment"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'll be there in a snap."
+      },
+      {
+        "sentence": "The problem was solved in a snap."
+      }
+    ],
     "wrongExamples": [
       "She collected several in a snaps for her hobby.",
       "That in a snap looks brand new.",
@@ -8620,7 +9166,14 @@
       "to show weakness",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He was thrown in at the deep end on his first day."
+      },
+      {
+        "sentence": "Learning by being in at the deep end is effective but stressful."
+      }
+    ],
     "wrongExamples": [
       "That in at the deep end looks brand new.",
       "The price of in at the deep ends has gone up.",
@@ -8688,7 +9241,14 @@
       "to show weakness",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The team won back-to-back-to-back championships."
+      },
+      {
+        "sentence": "He hit back-to-back-to-back home runs."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a back-to-back-to-back like that before.",
       "The price of back-to-back-to-backs has gone up.",
@@ -8706,7 +9266,14 @@
       "a beneficial outcome",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The house is in bad shape."
+      },
+      {
+        "sentence": "After the flu, he was in bad shape."
+      }
+    ],
     "wrongExamples": [
       "The price of in bad shapes has gone up.",
       "I've never seen a in bad shape like that before.",
@@ -8824,7 +9391,14 @@
       "to avoid responsibility",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "That was a Mistake in capital letters."
+      },
+      {
+        "sentence": "He is a Trouble in capital letters."
+      }
+    ],
     "wrongExamples": [
       "The price of in capital letterss has gone up.",
       "She collected several in capital letterss for her hobby.",
@@ -8842,7 +9416,14 @@
       "something done carelessly",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The traffic inched along the highway."
+      },
+      {
+        "sentence": "We inched along the ledge."
+      }
+    ],
     "wrongExamples": [
       "Can you teach me to inch along?",
       "He tried to inch along but failed miserably.",
@@ -8907,7 +9488,14 @@
       "to achieve success",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He inched back from the edge."
+      },
+      {
+        "sentence": "The car inched back into the spot."
+      }
+    ],
     "wrongExamples": [
       "They forgot to inch back before leaving.",
       "Everyone should inch back at least once.",
@@ -8953,7 +9541,14 @@
       "to create confusion",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "They moved the heavy piano inch by inch."
+      },
+      {
+        "sentence": "We are making progress, inch by inch."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a inch by inch like that before.",
       "She lost her inch by inch last week.",
@@ -8971,7 +9566,14 @@
       "something done carelessly",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The soldier inched forward through the grass."
+      },
+      {
+        "sentence": "Sales inched forward this quarter."
+      }
+    ],
     "wrongExamples": [
       "I always inch forward on Mondays.",
       "You should never inch forward in public.",
@@ -9011,7 +9613,14 @@
       "to create confusion",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Prices are inching up."
+      },
+      {
+        "sentence": "The cat inched up to the bird."
+      }
+    ],
     "wrongExamples": [
       "Everyone should inch up at least once.",
       "Can you teach me to inch up?",
@@ -9101,7 +9710,14 @@
       "to gain advantage",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is in deep with the wrong crowd."
+      },
+      {
+        "sentence": "I'm in deep with this project."
+      }
+    ],
     "wrongExamples": [
       "That in deep looks brand new.",
       "The in deep was on sale yesterday.",
@@ -9375,7 +9991,14 @@
       "to avoid responsibility",
       "to attempt unsuccessfully"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't worry, I never miss."
+      },
+      {
+        "sentence": "He claimed 'I never miss' when asked about the details."
+      }
+    ],
     "wrongExamples": [
       "That i never miss looks brand new.",
       "This i never miss is made of plastic.",
@@ -9474,7 +10097,14 @@
       "a beneficial outcome",
       "experiencing confusion"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The land is held in fee."
+      },
+      {
+        "sentence": "He owns the property in fee."
+      }
+    ],
     "wrongExamples": [
       "He bought a in fee at the store.",
       "Where can I find a good in fee?",
@@ -9492,7 +10122,14 @@
       "to take charge",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The soldiers were in fighting trim."
+      },
+      {
+        "sentence": "Get the team in fighting trim for the finals."
+      }
+    ],
     "wrongExamples": [
       "That in fighting trim looks brand new.",
       "He bought a in fighting trim at the store.",
@@ -9733,7 +10370,14 @@
       "to show weakness",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He is in good odor with the boss."
+      },
+      {
+        "sentence": "Keep yourself in good odor by working hard."
+      }
+    ],
     "wrongExamples": [
       "That in good odor looks brand new.",
       "She lost her in good odor last week.",
@@ -9751,7 +10395,14 @@
       "a harmful practice",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The machine is in good sorts."
+      },
+      {
+        "sentence": "She seems in good sorts today."
+      }
+    ],
     "wrongExamples": [
       "He bought a in good sorts at the store.",
       "The price of in good sortss has gone up.",
@@ -9891,7 +10542,14 @@
       "a harmful practice",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'll have it done in jig time."
+      },
+      {
+        "sentence": "They finished the job in jig time."
+      }
+    ],
     "wrongExamples": [
       "She lost her in jig time last week.",
       "She collected several in jig times for her hobby.",
@@ -9931,7 +10589,14 @@
       "to lose control",
       "to delay an action"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Please ink in your answers."
+      },
+      {
+        "sentence": "I inked in the drawing."
+      }
+    ],
     "wrongExamples": [
       "ink of",
       "The instructions said to ink in first thing in the morning.",
@@ -10005,7 +10670,14 @@
       "to achieve success",
       "to hurry through something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Explain it in laywoman's terms."
+      },
+      {
+        "sentence": "In laywoman's terms, it's broken."
+      }
+    ],
     "wrongExamples": [
       "He bought a in laywoman's terms at the store.",
       "I've never seen a in laywoman's terms like that before.",
@@ -10163,7 +10835,14 @@
       "to achieve success",
       "appearing foolish"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He knows the manual backwards and forwards."
+      },
+      {
+        "sentence": "She paced backwards and forwards."
+      }
+    ],
     "wrongExamples": [
       "The backwards and forwards was on sale yesterday.",
       "This backwards and forwards is made of plastic.",
@@ -10331,7 +11010,14 @@
       "an unnecessary action",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The snake swallowed the egg in one bite."
+      },
+      {
+        "sentence": "He ate the cookie in one bite."
+      }
+    ],
     "wrongExamples": [
       "She lost her in one bite last week.",
       "He bought a in one bite at the store.",
@@ -10399,7 +11085,14 @@
       "to show weakness",
       "to ignore a warning"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The bacon-faced man smiled."
+      },
+      {
+        "sentence": "He was a jolly, bacon-faced fellow."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a bacon-faced like that before.",
       "That bacon-faced looks brand new.",
@@ -10448,7 +11141,14 @@
       "to create confusion",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He ran out in his bare skin."
+      },
+      {
+        "sentence": "They swam in their bare skin."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good in one's bare skin?",
       "He bought a in one's bare skin at the store.",
@@ -10586,7 +11286,14 @@
       "an unnecessary action",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "I'll get to it in my own good time."
+      },
+      {
+        "sentence": "She finished the work in her own good time."
+      }
+    ],
     "wrongExamples": [
       "The price of in one's own good times has gone up.",
       "She lost her in one's own good time last week.",
@@ -10635,7 +11342,14 @@
       "to achieve success",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The mayor is in the developer's pocket."
+      },
+      {
+        "sentence": "He has the judge in his pocket."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a in one's pocket like that before.",
       "He bought a in one's pocket at the store.",
@@ -10839,7 +11553,14 @@
       "a common mistake",
       "to begin something reluctantly"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The stolen car was parked in plain view."
+      },
+      {
+        "sentence": "He hid the key in plain view."
+      }
+    ],
     "wrongExamples": [
       "He bought a in plain view at the store.",
       "Where can I find a good in plain view?",
@@ -10929,7 +11650,14 @@
       "to face challenges",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "It was the worst storm in recent memory."
+      },
+      {
+        "sentence": "No one in recent memory has done that."
+      }
+    ],
     "wrongExamples": [
       "She lost her in recent memory last week.",
       "Where can I find a good in recent memory?",
@@ -10947,7 +11675,14 @@
       "to avoid responsibility",
       "having excessive pride"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He finished the race in record time."
+      },
+      {
+        "sentence": "We cleaned the house in record time."
+      }
+    ],
     "wrongExamples": [
       "The price of in record times has gone up.",
       "He bought a in record time at the store.",
@@ -11372,7 +12107,14 @@
       "a common mistake",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "He fell into bad company."
+      },
+      {
+        "sentence": "Bad company corrupts good character."
+      }
+    ],
     "wrongExamples": [
       "This bad company is made of plastic.",
       "Where can I find a good bad company?",
@@ -11415,7 +12157,14 @@
       "to face challenges",
       "feeling overwhelmed"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "We have a large installed base of users."
+      },
+      {
+        "sentence": "Support for the installed base is crucial."
+      }
+    ],
     "wrongExamples": [
       "I've never seen a installed base like that before.",
       "He bought a installed base at the store.",
@@ -11461,7 +12210,14 @@
       "to achieve success",
       "to prepare for something"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She took the criticism in stride."
+      },
+      {
+        "sentence": "He took the changes in stride and kept working."
+      }
+    ],
     "wrongExamples": [
       "The price of in strides has gone up.",
       "He bought a in stride at the store.",
@@ -11479,7 +12235,14 @@
       "a beneficial outcome",
       "demonstrating skill"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "Don't insult my intelligence with that lie."
+      },
+      {
+        "sentence": "That explanation insults everyone's intelligence."
+      }
+    ],
     "wrongExamples": [
       "She learned to insult one's intelligence at school.",
       "You should never insult one's intelligence in public.",
@@ -11547,7 +12310,14 @@
       "to make things better",
       "to finish something completely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The company is finally in the black."
+      },
+      {
+        "sentence": "We need to get our accounts in the black."
+      }
+    ],
     "wrongExamples": [
       "The price of in the blacks has gone up.",
       "I've never seen a in the black like that before.",
@@ -11662,7 +12432,14 @@
       "to lose control",
       "remaining uncertain"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The movie is in the can."
+      },
+      {
+        "sentence": "With that scene finished, the episode is in the can."
+      }
+    ],
     "wrongExamples": [
       "He bought a in the can at the store.",
       "The price of in the cans has gone up.",
@@ -11764,7 +12541,14 @@
       "to cause problems",
       "to celebrate prematurely"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "The politician is in the dock for corruption."
+      },
+      {
+        "sentence": "He put the theory in the dock."
+      }
+    ],
     "wrongExamples": [
       "Where can I find a good in the dock?",
       "She lost her in the dock last week.",
@@ -11861,7 +12645,14 @@
       "a common mistake",
       "to continue despite difficulty"
     ],
-    "examples": [],
+    "examples": [
+      {
+        "sentence": "She is in the driving seat of the project."
+      },
+      {
+        "sentence": "Now that he's manager, he's in the driving seat."
+      }
+    ],
     "wrongExamples": [
       "The price of in the driving seats has gone up.",
       "This in the driving seat is made of plastic.",
