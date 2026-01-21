@@ -33,6 +33,7 @@ jobs:
           cp styles.css public/
           cp -r data public/
           cp -r dist public/
+          cp CNAME public/
           touch public/.nojekyll
 
       - name: Deploy to GitHub Pages
